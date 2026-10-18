@@ -3,7 +3,7 @@ WITH bounds AS (
   SELECT MAX(date) AS last_date FROM `{dataset}.v_product_daily`
 ),
 cat_lift AS (
-  SELECT category, GREATEST(AVG(lift_pct), 0) AS category_avg_lift
+  SELECT category, GREATEST(AVG(net_lift_pct), 0) AS category_avg_lift
   FROM `{dataset}.v_promo_performance`
   GROUP BY category
 ),

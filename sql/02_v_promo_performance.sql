@@ -28,14 +28,20 @@ siblings AS (
     d.product_id,
     AVG(IF(d.date BETWEEN DATE_SUB(pm.start_date, INTERVAL 28 DAY)
                       AND DATE_SUB(pm.start_date, INTERVAL 1 DAY), d.gross_profit, NULL)) AS pre_daily_profit,
-    SUM(IF(d.date BETWEEN pm.start_date AND pm.end_date, d.gross_profit, 0)) AS promo_profit
+    SUM(IF(d.date BETWEEN pm.start_date AND pm.end_date, d.gross_profit, 0)) AS promo_profit,
+    AVG(IF(d.date BETWEEN DATE_SUB(pm.start_date, INTERVAL 28 DAY)
+                      AND DATE_SUB(pm.start_date, INTERVAL 1 DAY), d.units, NULL)) AS pre_daily_units,
+    SUM(IF(d.date BETWEEN pm.start_date AND pm.end_date, d.units, 0)) AS promo_units
   FROM promo pm
   JOIN `{dataset}.v_product_daily` d
     ON d.category = pm.category AND d.product_id != pm.product_id
   GROUP BY 1, 2
 ),
 cannibal AS (
-  SELECT s.promo_id, SUM(s.promo_profit - s.pre_daily_profit * pm.promo_days) AS cannibalization_profit
+  SELECT
+    s.promo_id,
+    SUM(s.promo_profit - s.pre_daily_profit * pm.promo_days) AS cannibalization_profit,
+    SUM(s.promo_units - s.pre_daily_units * pm.promo_days) AS cannibalization_units
   FROM siblings s
   JOIN promo pm USING (promo_id)
   GROUP BY 1
@@ -46,7 +52,8 @@ metrics AS (
     o.baseline_daily_units,
     o.baseline_daily_units * pm.promo_days AS expected_units,
     o.actual_units, o.actual_revenue, o.actual_profit, o.discount_spend,
-    COALESCE(c.cannibalization_profit, 0) AS cannibalization_profit
+    COALESCE(c.cannibalization_profit, 0) AS cannibalization_profit,
+    COALESCE(c.cannibalization_units, 0) AS cannibalization_units
   FROM promo pm
   JOIN own o USING (promo_id)
   LEFT JOIN cannibal c USING (promo_id)
@@ -55,6 +62,8 @@ calc AS (
   SELECT
     *,
     SAFE_DIVIDE(actual_units, expected_units) - 1 AS lift_pct,
+    -- units taken from same-category siblings are not real lift
+    SAFE_DIVIDE(actual_units - expected_units + cannibalization_units, expected_units) AS net_lift_pct,
     IF(discount_pct < margin_pct, discount_pct / (margin_pct - discount_pct), NULL) AS breakeven_lift_pct,
     actual_revenue - expected_units * list_price AS incremental_revenue,
     actual_profit - expected_units * (list_price - unit_cost) AS incremental_profit,

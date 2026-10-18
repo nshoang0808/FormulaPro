@@ -12,7 +12,7 @@ FIXTURES = Path(__file__).parent / "fixtures"
 LEADERBOARD_COLUMNS = [
     "promo_id", "promo_name", "product_id", "product_name", "category", "list_price", "unit_cost",
     "discount_pct", "start_date", "end_date", "promo_days", "margin_pct", "baseline_daily_units",
-    "expected_units", "actual_units", "actual_revenue", "actual_profit", "lift_pct",
+    "expected_units", "actual_units", "actual_revenue", "actual_profit", "lift_pct", "net_lift_pct",
     "breakeven_lift_pct", "incremental_revenue", "incremental_profit", "discount_spend",
     "subsidy_cost", "cannibalization_profit", "net_incremental_profit", "promo_roi", "verdict",
 ]

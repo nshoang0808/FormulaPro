@@ -24,7 +24,7 @@ SYSTEM_INSTRUCTION = (
 )
 PROMO_FIELDS = [
     "promo_name", "product_name", "category", "discount_pct", "promo_days", "margin_pct",
-    "baseline_daily_units", "expected_units", "actual_units", "lift_pct", "breakeven_lift_pct",
+    "baseline_daily_units", "expected_units", "actual_units", "lift_pct", "net_lift_pct", "breakeven_lift_pct",
     "actual_revenue", "incremental_revenue", "incremental_profit", "cannibalization_profit",
     "net_incremental_profit", "subsidy_cost", "discount_spend", "promo_roi", "verdict",
 ]
@@ -64,7 +64,7 @@ def _generate(prompt: str, schema: type[BaseModel]) -> BaseModel:
     return schema.model_validate_json(response.text)
 
 
-SIGNED_PCT = {"lift_pct", "revenue_change_pct"}
+SIGNED_PCT = {"lift_pct", "net_lift_pct", "revenue_change_pct"}
 
 
 def _clean(key: str, value):
@@ -92,6 +92,7 @@ def _promo_prompt(row: dict) -> str:
         "Analyze this retail promotion.\n"
         f"Metrics (JSON): {json.dumps(facts)}\n"
         "Definitions: lift_pct = unit change vs. expected_units (the 28 days before the promotion). "
+        "net_lift_pct = lift_pct minus units lost by same-category products (stolen sales are not real lift). "
         "breakeven_lift_pct = unit lift needed just to break even at this discount; null means the "
         "discount exceeds the margin, so no lift can break even. revenue_change_pct = revenue vs. baseline. "
         "net_incremental_profit = incremental_profit + cannibalization_profit (profit change of other "
@@ -111,7 +112,8 @@ def _next_prompt(candidates: pd.DataFrame) -> str:
         "Recommend which of these products should get the next 14-day promotion. "
         "Return one rec per product, best first.\n"
         f"Candidates (JSON): {json.dumps(rows)}\n"
-        "suggested_discount_pct was computed so the category's typical lift clears breakeven with a "
+        "category_avg_lift is the category's average net lift (excluding sales stolen from sibling products). "
+        "suggested_discount_pct was computed so the category's typical net lift clears breakeven with a "
         "1.5x safety margin; null means no discount is safe. Return it as a fraction (15% -> 0.15); "
         "keep it or lower it, never raise it. Base expected_impact on projected_incremental_profit (US dollars)."
     )

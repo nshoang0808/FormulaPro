@@ -55,6 +55,16 @@ def test_candidates_exclude_recent_promos(candidates):
     assert (with_discount.projected_incremental_profit > 0).all()
 
 
+def test_cannibalized_units_are_not_counted_as_lift(perf):
+    row = perf.loc["PR06"]
+    assert row.net_lift_pct <= row.lift_pct - 0.30
+
+
+def test_cannibalizing_category_is_not_promoted_next(candidates):
+    top5 = set(candidates.sort_values("score", ascending=False).head(5).product_id)
+    assert {"C01", "C02"}.isdisjoint(top5)
+
+
 def test_promo_daily_window(perf):
     daily = _query("SELECT * FROM `{dataset}.v_promo_daily` WHERE promo_id = 'PR01'")
     assert len(daily) == 42

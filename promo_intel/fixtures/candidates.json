@@ -6,63 +6,11 @@
     "list_price": 1.2,
     "unit_cost": 0.6,
     "margin_pct": 0.5,
-    "category_avg_lift": 0.764504717,
+    "category_avg_lift": 0.737228161,
     "baseline_daily_units": 75.25,
-    "score": 0.3822523585,
+    "score": 0.3686140805,
     "suggested_discount_pct": 0.15,
-    "projected_incremental_profit": 148.6404021226
-  },
-  {
-    "product_id": "C02",
-    "product_name": "Classic Shampoo",
-    "category": "Personal Care",
-    "list_price": 6.0,
-    "unit_cost": 3.0,
-    "margin_pct": 0.5,
-    "category_avg_lift": 0.712641277,
-    "baseline_daily_units": 63.75,
-    "score": 0.3563206385,
-    "suggested_discount_pct": 0.15,
-    "projected_incremental_profit": 532.4179133858
-  },
-  {
-    "product_id": "C01",
-    "product_name": "Herbal Shampoo",
-    "category": "Personal Care",
-    "list_price": 6.0,
-    "unit_cost": 3.0,
-    "margin_pct": 0.5,
-    "category_avg_lift": 0.712641277,
-    "baseline_daily_units": 62.8571428571,
-    "score": 0.3563206385,
-    "suggested_discount_pct": 0.15,
-    "projected_incremental_profit": 524.961079865
-  },
-  {
-    "product_id": "C04",
-    "product_name": "Mint Toothpaste",
-    "category": "Personal Care",
-    "list_price": 3.5,
-    "unit_cost": 1.75,
-    "margin_pct": 0.5,
-    "category_avg_lift": 0.712641277,
-    "baseline_daily_units": 42.0714285714,
-    "score": 0.3563206385,
-    "suggested_discount_pct": 0.15,
-    "projected_incremental_profit": 204.9634973753
-  },
-  {
-    "product_id": "C05",
-    "product_name": "Body Lotion",
-    "category": "Personal Care",
-    "list_price": 8.0,
-    "unit_cost": 4.4,
-    "margin_pct": 0.45,
-    "category_avg_lift": 0.712641277,
-    "baseline_daily_units": 20.9285714286,
-    "score": 0.3206885746,
-    "suggested_discount_pct": 0.1,
-    "projected_incremental_profit": 350.250903637
+    "projected_incremental_profit": 136.5713443932
   },
   {
     "product_id": "B02",
@@ -71,37 +19,11 @@
     "list_price": 2.0,
     "unit_cost": 1.2,
     "margin_pct": 0.4,
-    "category_avg_lift": 0.764504717,
+    "category_avg_lift": 0.737228161,
     "baseline_daily_units": 46.7142857143,
-    "score": 0.3058018868,
+    "score": 0.2948912644,
     "suggested_discount_pct": 0.1,
-    "projected_incremental_profit": 169.1916509434
-  },
-  {
-    "product_id": "B05",
-    "product_name": "Orange Juice 1L",
-    "category": "Beverages",
-    "list_price": 3.0,
-    "unit_cost": 1.95,
-    "margin_pct": 0.35,
-    "category_avg_lift": 0.764504717,
-    "baseline_daily_units": 31.6428571429,
-    "score": 0.2675766509,
-    "suggested_discount_pct": 0.1,
-    "projected_incremental_profit": 121.106692217
-  },
-  {
-    "product_id": "B01",
-    "product_name": "Fizz Cola 330ml",
-    "category": "Beverages",
-    "list_price": 2.0,
-    "unit_cost": 1.3,
-    "margin_pct": 0.35,
-    "category_avg_lift": 0.764504717,
-    "baseline_daily_units": 62.25,
-    "score": 0.2675766509,
-    "suggested_discount_pct": 0.1,
-    "projected_incremental_profit": 158.8329304245
+    "projected_incremental_profit": 158.4883303725
   },
   {
     "product_id": "S03",
@@ -110,11 +32,37 @@
     "list_price": 2.0,
     "unit_cost": 0.9,
     "margin_pct": 0.55,
-    "category_avg_lift": 0.4793268438,
+    "category_avg_lift": 0.4888007905,
     "baseline_daily_units": 52.8928571429,
-    "score": 0.2636297641,
+    "score": 0.2688404348,
     "suggested_discount_pct": 0.1,
-    "projected_incremental_profit": 171.347375057
+    "projected_incremental_profit": 177.6612867996
+  },
+  {
+    "product_id": "B01",
+    "product_name": "Fizz Cola 330ml",
+    "category": "Beverages",
+    "list_price": 2.0,
+    "unit_cost": 1.3,
+    "margin_pct": 0.35,
+    "category_avg_lift": 0.737228161,
+    "baseline_daily_units": 62.25,
+    "score": 0.2580298563,
+    "suggested_discount_pct": 0.1,
+    "projected_incremental_profit": 146.9471711514
+  },
+  {
+    "product_id": "B05",
+    "product_name": "Orange Juice 1L",
+    "category": "Beverages",
+    "list_price": 3.0,
+    "unit_cost": 1.95,
+    "margin_pct": 0.35,
+    "category_avg_lift": 0.737228161,
+    "baseline_daily_units": 31.6428571429,
+    "score": 0.2580298563,
+    "suggested_discount_pct": 0.1,
+    "projected_incremental_profit": 112.0440564889
   },
   {
     "product_id": "S01",
@@ -123,11 +71,11 @@
     "list_price": 3.0,
     "unit_cost": 1.5,
     "margin_pct": 0.5,
-    "category_avg_lift": 0.4793268438,
+    "category_avg_lift": 0.4888007905,
     "baseline_daily_units": 42.25,
-    "score": 0.2396634219,
+    "score": 0.2444003952,
     "suggested_discount_pct": 0.1,
-    "projected_incremental_profit": 162.7761937361
+    "projected_incremental_profit": 169.5008010658
   },
   {
     "product_id": "S02",
@@ -136,11 +84,11 @@
     "list_price": 2.5,
     "unit_cost": 1.5,
     "margin_pct": 0.4,
-    "category_avg_lift": 0.4793268438,
+    "category_avg_lift": 0.4888007905,
     "baseline_daily_units": 36.9285714286,
-    "score": 0.1917307375,
+    "score": 0.1955203162,
     "suggested_discount_pct": 0.05,
-    "projected_incremental_profit": 152.2104809684
+    "projected_incremental_profit": 156.4962575826
   },
   {
     "product_id": "S04",
@@ -149,11 +97,63 @@
     "list_price": 4.5,
     "unit_cost": 2.7,
     "margin_pct": 0.4,
-    "category_avg_lift": 0.4793268438,
+    "category_avg_lift": 0.4888007905,
     "baseline_daily_units": 20.9285714286,
-    "score": 0.1917307375,
+    "score": 0.1955203162,
     "suggested_discount_pct": 0.05,
-    "projected_incremental_profit": 155.2723552471
+    "projected_incremental_profit": 159.6443447758
+  },
+  {
+    "product_id": "C01",
+    "product_name": "Herbal Shampoo",
+    "category": "Personal Care",
+    "list_price": 6.0,
+    "unit_cost": 3.0,
+    "margin_pct": 0.5,
+    "category_avg_lift": 0.3666131019,
+    "baseline_daily_units": 62.8571428571,
+    "score": 0.183306551,
+    "suggested_discount_pct": 0.05,
+    "projected_incremental_profit": 607.0727301944
+  },
+  {
+    "product_id": "C02",
+    "product_name": "Classic Shampoo",
+    "category": "Personal Care",
+    "list_price": 6.0,
+    "unit_cost": 3.0,
+    "margin_pct": 0.5,
+    "category_avg_lift": 0.3666131019,
+    "baseline_daily_units": 63.75,
+    "score": 0.183306551,
+    "suggested_discount_pct": 0.05,
+    "projected_incremental_profit": 615.6959223847
+  },
+  {
+    "product_id": "C04",
+    "product_name": "Mint Toothpaste",
+    "category": "Personal Care",
+    "list_price": 3.5,
+    "unit_cost": 1.75,
+    "margin_pct": 0.5,
+    "category_avg_lift": 0.3666131019,
+    "baseline_daily_units": 42.0714285714,
+    "score": 0.183306551,
+    "suggested_discount_pct": 0.05,
+    "projected_incremental_profit": 237.0228093363
+  },
+  {
+    "product_id": "C05",
+    "product_name": "Body Lotion",
+    "category": "Personal Care",
+    "list_price": 8.0,
+    "unit_cost": 4.4,
+    "margin_pct": 0.45,
+    "category_avg_lift": 0.3666131019,
+    "baseline_daily_units": 20.9285714286,
+    "score": 0.1649758959,
+    "suggested_discount_pct": 0.05,
+    "projected_incremental_profit": 226.536444373
   },
   {
     "product_id": "H03",
@@ -162,11 +162,11 @@
     "list_price": 12.0,
     "unit_cost": 6.6,
     "margin_pct": 0.45,
-    "category_avg_lift": 0.2855714418,
+    "category_avg_lift": 0.2838797607,
     "baseline_daily_units": 21.1785714286,
-    "score": 0.1285071488,
+    "score": 0.1277458923,
     "suggested_discount_pct": 0.05,
-    "projected_incremental_profit": 228.5252759417
+    "projected_incremental_profit": 226.1176754279
   },
   {
     "product_id": "H01",
@@ -175,11 +175,11 @@
     "list_price": 3.5,
     "unit_cost": 2.1,
     "margin_pct": 0.4,
-    "category_avg_lift": 0.2855714418,
+    "category_avg_lift": 0.2838797607,
     "baseline_daily_units": 42.0,
-    "score": 0.1142285767,
+    "score": 0.1135519043,
     "suggested_discount_pct": 0.05,
-    "projected_incremental_profit": 102.7971095143
+    "projected_incremental_profit": 101.5785916321
   },
   {
     "product_id": "H04",
@@ -188,11 +188,11 @@
     "list_price": 6.0,
     "unit_cost": 3.6,
     "margin_pct": 0.4,
-    "category_avg_lift": 0.2855714418,
+    "category_avg_lift": 0.2838797607,
     "baseline_daily_units": 26.5357142857,
-    "score": 0.1142285767,
+    "score": 0.1135519043,
     "suggested_discount_pct": 0.05,
-    "projected_incremental_profit": 111.3385603049
+    "projected_incremental_profit": 110.0187953099
   },
   {
     "product_id": "H02",
@@ -201,9 +201,9 @@
     "list_price": 7.0,
     "unit_cost": 5.25,
     "margin_pct": 0.25,
-    "category_avg_lift": 0.2855714418,
+    "category_avg_lift": 0.2838797607,
     "baseline_daily_units": 31.3928571429,
-    "score": 0.0713928604,
+    "score": 0.0709699402,
     "suggested_discount_pct": null,
     "projected_incremental_profit": 0.0
   }

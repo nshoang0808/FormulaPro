@@ -1,47 +1,47 @@
 [
   {
-    "product_id": "C02",
-    "product_name": "Classic Shampoo",
-    "suggested_discount_pct": 0.15,
-    "rationale": "This product is in the 'Personal Care' category, which typically sees a 71% lift during promotions. A 15% discount is recommended to achieve a 1.5x safety margin above breakeven.",
-    "expected_impact": "Projected incremental profit of $532.42 over 14 days.",
-    "confidence": "high",
-    "source": "gemini"
-  },
-  {
-    "product_id": "C01",
-    "product_name": "Herbal Shampoo",
-    "suggested_discount_pct": 0.15,
-    "rationale": "This product is in the 'Personal Care' category, which typically sees a 71% lift during promotions. A 15% discount is recommended to achieve a 1.5x safety margin above breakeven.",
-    "expected_impact": "Projected incremental profit of $524.96 over 14 days.",
-    "confidence": "high",
-    "source": "gemini"
-  },
-  {
-    "product_id": "C05",
-    "product_name": "Body Lotion",
+    "product_id": "S03",
+    "product_name": "Dark Chocolate Bar",
     "suggested_discount_pct": 0.1,
-    "rationale": "This product is in the 'Personal Care' category, which typically sees a 71% lift during promotions. A 10% discount is recommended to achieve a 1.5x safety margin above breakeven.",
-    "expected_impact": "Projected incremental profit of $350.25 over 14 days.",
+    "rationale": "This product has the highest projected incremental profit of $177.66. It also has a strong margin of 55%.",
+    "expected_impact": "A 10% discount is projected to generate an incremental profit of $177.66 over 14 days.",
     "confidence": "high",
     "source": "gemini"
   },
   {
-    "product_id": "C04",
-    "product_name": "Mint Toothpaste",
-    "suggested_discount_pct": 0.15,
-    "rationale": "This product is in the 'Personal Care' category, which typically sees a 71% lift during promotions. A 15% discount is recommended to achieve a 1.5x safety margin above breakeven.",
-    "expected_impact": "Projected incremental profit of $204.96 over 14 days.",
+    "product_id": "B02",
+    "product_name": "Lemon Sparkle 330ml",
+    "suggested_discount_pct": 0.1,
+    "rationale": "This product offers the second-highest projected incremental profit of $158.49 and a solid 40% margin.",
+    "expected_impact": "A 10% discount is projected to generate an incremental profit of $158.49 over 14 days.",
     "confidence": "high",
+    "source": "gemini"
+  },
+  {
+    "product_id": "B01",
+    "product_name": "Fizz Cola 330ml",
+    "suggested_discount_pct": 0.1,
+    "rationale": "With a projected incremental profit of $146.95, this product is a good candidate for promotion, despite a lower margin of 35%.",
+    "expected_impact": "A 10% discount is projected to generate an incremental profit of $146.95 over 14 days.",
+    "confidence": "medium",
     "source": "gemini"
   },
   {
     "product_id": "B04",
     "product_name": "Spring Water 1L",
     "suggested_discount_pct": 0.15,
-    "rationale": "This product is in the 'Beverages' category, which typically sees a 76% lift during promotions. A 15% discount is recommended to achieve a 1.5x safety margin above breakeven.",
-    "expected_impact": "Projected incremental profit of $148.64 over 14 days.",
-    "confidence": "high",
+    "rationale": "This product has a high margin of 50% and a projected incremental profit of $136.57. The higher suggested discount of 15% is still expected to be profitable.",
+    "expected_impact": "A 15% discount is projected to generate an incremental profit of $136.57 over 14 days.",
+    "confidence": "medium",
+    "source": "gemini"
+  },
+  {
+    "product_id": "B05",
+    "product_name": "Orange Juice 1L",
+    "suggested_discount_pct": 0.1,
+    "rationale": "While having the lowest projected incremental profit of $112.04 among the candidates, it still offers a positive return with a 35% margin.",
+    "expected_impact": "A 10% discount is projected to generate an incremental profit of $112.04 over 14 days.",
+    "confidence": "low",
     "source": "gemini"
   }
 ]

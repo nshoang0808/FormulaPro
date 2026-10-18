@@ -95,7 +95,7 @@ def rule_next_recs(candidates: pd.DataFrame, top: int = 5) -> list[NextPromoRec]
             product_name=row["product_name"],
             suggested_discount_pct=discount if has_discount else None,
             rationale=(f"{row['margin_pct']:.0%} margin, and {row['category']} promotions "
-                       f"average {row['category_avg_lift']:.0%} lift"),
+                       f"average {row['category_avg_lift']:.0%} net lift"),
             expected_impact=(f"About +{_money(row['projected_incremental_profit'])} over a 14-day promotion"
                              if has_discount else "Keep at full price; no discount clears breakeven"),
             confidence="medium",
