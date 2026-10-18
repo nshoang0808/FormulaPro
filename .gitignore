@@ -4,3 +4,7 @@ __pycache__/
 data/
 .playwright-mcp/
 docs/superpowers/
+UI_CONTRACT.md
+GEMINI_UI_PROMPT.md
+.claude/
+.DS_Store
