@@ -168,12 +168,12 @@ styled_lb = display_lb.style.map(style_verdict_badge, subset=["Verdict"])
 lb_column_config = {
     "Promotion": st.column_config.TextColumn("Promotion", width="medium"),
     "Product": st.column_config.TextColumn("Product", width="medium"),
-    "Discount": st.column_config.NumberColumn("Discount", format="percent", step=1),
-    "Lift": st.column_config.NumberColumn("Lift", format="percent", step=1),
+    "Discount": st.column_config.NumberColumn("Discount", format="percent", step=0.01),
+    "Lift": st.column_config.NumberColumn("Lift", format="percent", step=0.01),
     "Breakeven Lift": st.column_config.TextColumn("Breakeven Lift"),
     "Incremental Revenue": st.column_config.NumberColumn("Incremental Revenue", format="$%,d"),
     "Net Incremental Profit": st.column_config.NumberColumn("Net Incremental Profit", format="$%,d"),
-    "ROI": st.column_config.NumberColumn("ROI", format="percent", step=1),
+    "ROI": st.column_config.NumberColumn("ROI", format="percent", step=0.01),
     "Verdict": st.column_config.TextColumn("Verdict"),
 }
 
@@ -373,8 +373,8 @@ cand_display = pd.DataFrame({
 cand_config = {
     "Product": st.column_config.TextColumn("Product", width="medium"),
     "Category": st.column_config.TextColumn("Category", width="medium"),
-    "Margin": st.column_config.NumberColumn("Margin", format="percent", step=1),
-    "Category Avg Net Lift": st.column_config.NumberColumn("Category Avg Net Lift", format="percent", step=1),
+    "Margin": st.column_config.NumberColumn("Margin", format="percent", step=0.01),
+    "Category Avg Net Lift": st.column_config.NumberColumn("Category Avg Net Lift", format="percent", step=0.01),
     "Suggested Discount": st.column_config.TextColumn("Suggested Discount"),
     "Projected Incremental Profit": st.column_config.NumberColumn("Projected Incremental Profit", format="$%,d"),
 }
