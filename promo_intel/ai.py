@@ -58,6 +58,7 @@ def _generate(prompt: str, schema: type[BaseModel]) -> BaseModel:
             response_mime_type="application/json",
             response_schema=schema,
             temperature=0.2,
+            thinking_config=types.ThinkingConfig(thinking_budget=0),  # latency matters more than depth here
         ),
     )
     return schema.model_validate_json(response.text)
