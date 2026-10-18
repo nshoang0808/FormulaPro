@@ -1,0 +1,23 @@
+[project]
+name = "promo-intel"
+version = "0.1.0"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "pandas>=2.2",
+  "numpy>=1.26",
+  "google-cloud-bigquery[pandas]>=3.25",
+  "db-dtypes>=1.2",
+  "google-genai>=1.0",
+  "pydantic>=2.7",
+  "streamlit>=1.38",
+  "plotly>=5.22",
+]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+markers = ["integration: needs GCP credentials and loaded BigQuery data"]
+addopts = "-m 'not integration'"
