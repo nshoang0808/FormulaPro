@@ -1,47 +1,47 @@
 [
   {
-    "product_id": "B04",
-    "product_name": "Spring Water 1L",
-    "suggested_discount_pct": 0.15,
-    "rationale": "50% margin, and Beverages promotions average 76% lift",
-    "expected_impact": "About +$149 over a 14-day promotion",
-    "confidence": "medium",
-    "source": "fallback"
-  },
-  {
     "product_id": "C02",
     "product_name": "Classic Shampoo",
     "suggested_discount_pct": 0.15,
-    "rationale": "50% margin, and Personal Care promotions average 71% lift",
-    "expected_impact": "About +$532 over a 14-day promotion",
-    "confidence": "medium",
-    "source": "fallback"
+    "rationale": "Classic Shampoo (C02) is the top recommendation. Its Personal Care category typically sees a 71% lift, and with a 50% margin, a 15% discount is projected to be highly profitable.",
+    "expected_impact": "This promotion is expected to generate an incremental profit of $532.42.",
+    "confidence": "high",
+    "source": "gemini"
   },
   {
     "product_id": "C01",
     "product_name": "Herbal Shampoo",
     "suggested_discount_pct": 0.15,
-    "rationale": "50% margin, and Personal Care promotions average 71% lift",
-    "expected_impact": "About +$525 over a 14-day promotion",
-    "confidence": "medium",
-    "source": "fallback"
-  },
-  {
-    "product_id": "C04",
-    "product_name": "Mint Toothpaste",
-    "suggested_discount_pct": 0.15,
-    "rationale": "50% margin, and Personal Care promotions average 71% lift",
-    "expected_impact": "About +$205 over a 14-day promotion",
-    "confidence": "medium",
-    "source": "fallback"
+    "rationale": "Herbal Shampoo (C01) is a strong second choice. As part of the Personal Care category, it benefits from a typical 71% lift, and its 50% margin makes a 15% discount very attractive.",
+    "expected_impact": "This promotion is expected to generate an incremental profit of $524.96.",
+    "confidence": "high",
+    "source": "gemini"
   },
   {
     "product_id": "C05",
     "product_name": "Body Lotion",
     "suggested_discount_pct": 0.1,
-    "rationale": "45% margin, and Personal Care promotions average 71% lift",
-    "expected_impact": "About +$350 over a 14-day promotion",
-    "confidence": "medium",
-    "source": "fallback"
+    "rationale": "Body Lotion (C05) is a good option. Its Personal Care category typically sees a 71% lift, and with a 45% margin, a 10% discount is recommended to drive incremental profit.",
+    "expected_impact": "This promotion is expected to generate an incremental profit of $350.25.",
+    "confidence": "high",
+    "source": "gemini"
+  },
+  {
+    "product_id": "C04",
+    "product_name": "Mint Toothpaste",
+    "suggested_discount_pct": 0.15,
+    "rationale": "Mint Toothpaste (C04) is a solid candidate. Belonging to the Personal Care category, it benefits from a typical 71% lift, and its 50% margin supports a 15% discount.",
+    "expected_impact": "This promotion is expected to generate an incremental profit of $204.96.",
+    "confidence": "high",
+    "source": "gemini"
+  },
+  {
+    "product_id": "B04",
+    "product_name": "Spring Water 1L",
+    "suggested_discount_pct": 0.15,
+    "rationale": "Spring Water 1L (B04) is a viable option. The Beverages category typically experiences a 76% lift, and with a 50% margin, a 15% discount is recommended.",
+    "expected_impact": "This promotion is expected to generate an incremental profit of $148.64.",
+    "confidence": "high",
+    "source": "gemini"
   }
 ]

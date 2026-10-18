@@ -1,165 +1,258 @@
 {
   "PR07": {
     "promo_id": "PR07",
-    "headline": "Sales up 45%, profit up $988",
-    "explanation": "Serum Glow 10% Off ran 10% off Vitamin C Serum for 14 days. Units moved +61% against baseline; breakeven lift was 20%. Net incremental profit after category effects: +$988.",
+    "headline": "Revenue up 45%, profit up $988",
+    "explanation": "The \"Serum Glow 10% Off\" promotion for Vitamin C Serum was a success, generating $987.78 in net incremental profit and a 111% ROI. The promotion significantly exceeded expectations, achieving a 61% unit lift compared to a 20% breakeven lift. This strong performance indicates high customer demand for the product at the discounted price.",
     "root_causes": [
-      "Lift of 61% cleared the breakeven of 20%"
+      "Strong customer response to the 10% discount, leading to a 61% unit lift.",
+      "The actual unit lift of 61% significantly surpassed the 20% breakeven lift, driving profitability.",
+      "High underlying demand for the Vitamin C Serum product."
     ],
     "actions": [
       {
-        "action": "Run it again at the same depth",
+        "action": "Consider running this promotion again with a 15% discount, as the observed lift supports a deeper discount.",
         "type": "scale_up",
-        "expected_impact": "About +$988 per 14-day run",
+        "expected_impact": "Potentially higher sales and profit by leveraging the product's strong demand.",
+        "confidence": "high"
+      },
+      {
+        "action": "Investigate bundling Vitamin C Serum with complementary personal care products.",
+        "type": "bundle",
+        "expected_impact": "Increase average transaction value and potentially introduce customers to other products.",
+        "confidence": "medium"
+      },
+      {
+        "action": "Explore extending the duration of similar successful promotions for this product.",
+        "type": "scale_up",
+        "expected_impact": "Sustain increased sales and profit over a longer period.",
         "confidence": "medium"
       }
     ],
-    "suggested_discount_pct": 0.1,
-    "source": "fallback"
+    "suggested_discount_pct": 0.15,
+    "source": "gemini"
   },
   "PR04": {
     "promo_id": "PR04",
-    "headline": "Sales up 21%, profit up $134",
-    "explanation": "Chocolate 10% Off ran 10% off Dark Chocolate Bar for 14 days. Units moved +34% against baseline; breakeven lift was 22%. Net incremental profit after category effects: +$134.",
+    "headline": "Sales up 21%, profit up $134.",
+    "explanation": "This promotion was a Winner, delivering a net incremental profit of $134.20 and a strong ROI of 68%. The actual unit lift of 34% significantly exceeded the breakeven lift of 22%, indicating strong customer response and profitability.",
     "root_causes": [
-      "Lift of 34% cleared the breakeven of 22%"
+      "Strong customer demand for Dark Chocolate Bar at the discounted price.",
+      "The 10% discount effectively drove higher unit sales, surpassing the breakeven point.",
+      "Efficient management of cannibalization, resulting in a positive net incremental profit."
     ],
     "actions": [
       {
-        "action": "Run it again at the same depth",
+        "action": "Consider repeating the 'Chocolate 10% Off' promotion for Dark Chocolate Bar.",
         "type": "scale_up",
-        "expected_impact": "About +$134 per 14-day run",
+        "expected_impact": "Likely to generate similar positive incremental profit and revenue.",
+        "confidence": "high"
+      },
+      {
+        "action": "Analyze if a slightly deeper discount could further maximize profit, given the strong performance at 10% off.",
+        "type": "reduce_discount",
+        "expected_impact": "Potentially higher unit sales and overall profit, while maintaining profitability.",
         "confidence": "medium"
       }
     ],
     "suggested_discount_pct": 0.1,
-    "source": "fallback"
+    "source": "gemini"
   },
   "PR02": {
     "promo_id": "PR02",
     "headline": "Sales up 40%, profit up $70",
-    "explanation": "Cold Brew 15% Off ran 15% off Cold Brew Coffee for 14 days. Units moved +64% against baseline; breakeven lift was 43%. Net incremental profit after category effects: +$70.",
+    "explanation": "This promotion was a winner, generating a net incremental profit of $69.71 and a 22% ROI. The Cold Brew Coffee saw a significant unit lift of 64%, well above the 43% needed to break even. This strong performance indicates the 15% discount effectively drove sales and profitability.",
     "root_causes": [
-      "Lift of 64% cleared the breakeven of 43%"
+      "The 15% discount successfully drove a 64% unit lift, significantly exceeding the 43% breakeven lift.",
+      "Strong customer response to the Cold Brew Coffee promotion resulted in positive net incremental profit and a 22% ROI."
     ],
     "actions": [
       {
-        "action": "Run it again at the same depth",
-        "type": "scale_up",
-        "expected_impact": "About +$70 per 14-day run",
+        "action": "Replicate the Cold Brew Coffee promotion with a 10% discount.",
+        "type": "reduce_discount",
+        "expected_impact": "Maintain strong sales while improving profit margins and reducing risk, based on the calculated safe discount.",
+        "confidence": "high"
+      },
+      {
+        "action": "Explore bundling Cold Brew Coffee with complementary breakfast items.",
+        "type": "bundle",
+        "expected_impact": "Increase average transaction value and introduce customers to other products, potentially boosting overall category sales.",
         "confidence": "medium"
+      },
+      {
+        "action": "Scale up the successful Cold Brew Coffee promotion to other high-traffic stores or channels.",
+        "type": "scale_up",
+        "expected_impact": "Increase overall sales and profit for Cold Brew Coffee across the business, leveraging proven success.",
+        "confidence": "high"
       }
     ],
-    "suggested_discount_pct": 0.15,
-    "source": "fallback"
+    "suggested_discount_pct": 0.1,
+    "source": "gemini"
   },
   "PR09": {
     "promo_id": "PR09",
     "headline": "Sales up 32%, profit up $60",
-    "explanation": "Laundry Pods 15% Off ran 15% off Laundry Pods for 14 days. Units moved +55% against baseline; breakeven lift was 50%. Net incremental profit after category effects: +$60.",
+    "explanation": "The \"Laundry Pods 15% Off\" promotion was a winner, driving a 32% increase in revenue and a net incremental profit of $60. This success was primarily due to a strong unit lift of 55%, which surpassed the breakeven lift of 50%. The promotion also achieved a 7% ROI.",
     "root_causes": [
-      "Lift of 55% cleared the breakeven of 50%"
+      "The 15% discount successfully drove a significant unit lift of 55%, exceeding the 50% breakeven lift.",
+      "Strong customer demand for Laundry Pods responded well to the promotional pricing."
     ],
     "actions": [
       {
-        "action": "Run it again at the same depth",
+        "action": "Test a reduced discount of 10% on Laundry Pods.",
+        "type": "reduce_discount",
+        "expected_impact": "Maintain strong sales while improving profit margins, as the 10% discount is identified as a \"safe\" level.",
+        "confidence": "high"
+      },
+      {
+        "action": "Consider running this promotion again with the adjusted discount.",
         "type": "scale_up",
-        "expected_impact": "About +$60 per 14-day run",
+        "expected_impact": "Continue to capture incremental revenue and profit efficiently.",
         "confidence": "medium"
       }
     ],
-    "suggested_discount_pct": 0.15,
-    "source": "fallback"
+    "suggested_discount_pct": 0.1,
+    "source": "gemini"
   },
   "PR10": {
     "promo_id": "PR10",
     "headline": "Sales up 14%, profit up $22",
-    "explanation": "Glass Cleaner 10% Off ran 10% off Glass Cleaner for 14 days. Units moved +26% against baseline; breakeven lift was 22%. Net incremental profit after category effects: +$22.",
+    "explanation": "This 'Glass Cleaner 10% Off' promotion was a winner, generating a net incremental profit of $22.07 and a positive ROI of 12%. The promotion significantly exceeded expectations, achieving a 26% unit lift against a breakeven lift of 22%. Actual units sold were 468, well above the expected 370 units.",
     "root_causes": [
-      "Lift of 26% cleared the breakeven of 22%"
+      "Strong unit performance, with actual units (468) significantly exceeding expected units (370).",
+      "The 26% unit lift surpassed the 22% breakeven lift, ensuring profitability.",
+      "Positive net incremental profit of $22.07, despite some cannibalization."
     ],
     "actions": [
       {
-        "action": "Run it again at the same depth",
+        "action": "Repeat this 'Glass Cleaner 10% Off' promotion, as it proved to be profitable and successful.",
         "type": "scale_up",
-        "expected_impact": "About +$22 per 14-day run",
-        "confidence": "medium"
-      }
-    ],
-    "suggested_discount_pct": 0.1,
-    "source": "fallback"
-  },
-  "PR03": {
-    "promo_id": "PR03",
-    "headline": "Sales up 34%, profit up $5",
-    "explanation": "Chips 20% Off ran 20% off Sea Salt Chips for 14 days. Units moved +68% against baseline; breakeven lift was 67%. Net incremental profit after category effects: +$5.",
-    "root_causes": [
-      "Lift of 68% cleared the breakeven of 67%"
-    ],
-    "actions": [
-      {
-        "action": "Run it again at the same depth",
-        "type": "scale_up",
-        "expected_impact": "About +$5 per 14-day run",
-        "confidence": "medium"
-      }
-    ],
-    "suggested_discount_pct": 0.2,
-    "source": "fallback"
-  },
-  "PR08": {
-    "promo_id": "PR08",
-    "headline": "Sales down 17%, profit down $388",
-    "explanation": "Dish Soap 20% Off ran 20% off Dish Soap for 14 days. Units moved +4% against baseline; breakeven lift was 100%. Net incremental profit after category effects: -$388.",
-    "root_causes": [
-      "Only 4% lift, so most of the discount went to customers who would have bought anyway"
-    ],
-    "actions": [
-      {
-        "action": "Stop this promotion",
-        "type": "stop",
-        "expected_impact": "Saves about $419 in discounts on units that sell anyway",
+        "expected_impact": "Continued positive incremental profit and revenue for Glass Cleaner.",
         "confidence": "high"
-      }
-    ],
-    "suggested_discount_pct": null,
-    "source": "fallback"
-  },
-  "PR05": {
-    "promo_id": "PR05",
-    "headline": "Sales up 6%, profit down $405",
-    "explanation": "Pretzel 25% Off ran 25% off Pretzel Bites for 14 days. Units moved +42% against baseline; breakeven lift was 500%. Net incremental profit after category effects: -$405.",
-    "root_causes": [
-      "Lift of 42% fell short of the breakeven of 500%"
-    ],
-    "actions": [
+      },
       {
-        "action": "Cut the discount from 25% to 5%",
+        "action": "Consider testing a slightly lower discount, such as 5%, in future promotions to potentially optimize profit further, as this was identified as a safe discount percentage.",
         "type": "reduce_discount",
-        "expected_impact": "Keeps most of the lift while restoring margin",
+        "expected_impact": "Potentially higher profit margins per unit, while still driving strong sales.",
         "confidence": "medium"
       }
     ],
     "suggested_discount_pct": 0.05,
-    "source": "fallback"
+    "source": "gemini"
   },
-  "PR01": {
-    "promo_id": "PR01",
-    "headline": "Sales up 32%, profit down $417",
-    "explanation": "Cola Summer Blast 30% Off ran 30% off Fizz Cola 330ml for 14 days. Units moved +89% against baseline; breakeven lift was 600%. Net incremental profit after category effects: -$417.",
+  "PR03": {
+    "promo_id": "PR03",
+    "headline": "Sales up 34%, profit up $5.10",
+    "explanation": "This promotion was a winner, generating $5.10 in net incremental profit. The 68% unit lift achieved was just above the 67% breakeven lift required, indicating that while successful, the profit margin was very thin. The promotion's ROI was 1%.",
     "root_causes": [
-      "Lift of 89% fell short of the breakeven of 600%"
+      "The promotion achieved a significant unit lift of 68%, exceeding the 67% breakeven lift.",
+      "The 20% discount was very close to the maximum sustainable discount for the product's margin, resulting in minimal profit despite high sales volume."
     ],
     "actions": [
       {
-        "action": "Cut the discount from 30% to 10%",
+        "action": "Reduce the discount from 20% to 15% to improve profitability while still driving strong sales volume.",
         "type": "reduce_discount",
-        "expected_impact": "Keeps most of the lift while restoring margin",
+        "expected_impact": "This should increase the net incremental profit significantly, as the 15% discount is identified as the safe discount percentage.",
+        "confidence": "high"
+      },
+      {
+        "action": "Consider bundling 'Sea Salt Chips' with complementary products to increase basket size and overall profit, rather than relying solely on a deep discount.",
+        "type": "bundle",
+        "expected_impact": "Could increase total transaction value and profit per customer without further discounting the core product.",
         "confidence": "medium"
       }
     ],
+    "suggested_discount_pct": 0.15,
+    "source": "gemini"
+  },
+  "PR08": {
+    "promo_id": "PR08",
+    "headline": "Revenue down 17%, profit down $388.",
+    "explanation": "This promotion was a \"Subsidy Dud\" as it resulted in a net incremental profit loss of $388.25 and an ROI of -89%. The actual unit lift of 4% was far below the 100% needed to break even, indicating the 20% discount was too deep for the product's 40% margin. This led to high discount spend and subsidy costs that were not offset by increased sales.",
+    "root_causes": [
+      "The 20% discount was too aggressive for a product with a 40% margin, requiring an unrealistic 100% unit lift to break even.",
+      "The promotion only achieved a 4% unit lift, significantly short of the breakeven target.",
+      "High discount spend of $436.1 and subsidy cost of $419.3 eroded profitability."
+    ],
+    "actions": [
+      {
+        "action": "Stop running this promotion for Dish Soap.",
+        "type": "stop",
+        "expected_impact": "Prevent further profit losses from this underperforming promotion.",
+        "confidence": "high"
+      },
+      {
+        "action": "If a promotion is desired for Dish Soap, significantly reduce the discount percentage to align with the product's margin and historical lift capabilities.",
+        "type": "reduce_discount",
+        "expected_impact": "Improve profitability per unit and increase the likelihood of achieving a positive ROI.",
+        "confidence": "high"
+      }
+    ],
+    "suggested_discount_pct": null,
+    "source": "gemini"
+  },
+  "PR05": {
+    "promo_id": "PR05",
+    "headline": "Sales up 6%, but profit down $405",
+    "explanation": "This 'Pretzel 25% Off' promotion resulted in a 'Margin Trap'. Despite a 42% unit lift, the 25% discount was too aggressive for the 30% margin product, leading to a net incremental profit loss of $404.87. The required breakeven lift of 500% was far beyond the actual performance, indicating the promotion was unprofitable from the start.",
+    "root_causes": [
+      "The 25% discount was too high relative to the product's 30% margin, making profitability difficult.",
+      "The actual unit lift of 42% was significantly lower than the 500% lift needed to break even.",
+      "High discount spend of $591.77 and subsidy cost of $416.87 eroded profit."
+    ],
+    "actions": [
+      {
+        "action": "Reduce the discount percentage for Pretzel Bites to 5% to ensure profitability.",
+        "type": "reduce_discount",
+        "expected_impact": "Improve net incremental profit by aligning discount with product margin and observed lift.",
+        "confidence": "high"
+      },
+      {
+        "action": "If a 5% discount does not drive sufficient volume, consider stopping promotions for this product.",
+        "type": "stop",
+        "expected_impact": "Prevent further profit losses from unprofitable promotions.",
+        "confidence": "medium"
+      },
+      {
+        "action": "Re-evaluate the pricing strategy or margin for Pretzel Bites to allow for more effective promotions.",
+        "type": "change_product",
+        "expected_impact": "Increase the product's inherent profitability, enabling more flexible promotional strategies.",
+        "confidence": "medium"
+      }
+    ],
+    "suggested_discount_pct": 0.05,
+    "source": "gemini"
+  },
+  "PR01": {
+    "promo_id": "PR01",
+    "headline": "Sales up 32%, but profit down $417",
+    "explanation": "This promotion resulted in a 'Margin Trap' because the 30% discount was too deep for the product's 35% margin. While unit sales increased by 89%, this was far below the 600% lift needed to break even. The high discount spend of $996.6 led to a net incremental profit loss of $417.0, resulting in a -42% ROI.",
+    "root_causes": [
+      "The 30% discount was too aggressive for the product's 35% margin, making it difficult to achieve profitability.",
+      "Actual unit lift of 89% was significantly lower than the 600% required to break even, indicating poor discount elasticity.",
+      "The promotion incurred a substantial discount spend of $996.6, directly contributing to the negative profit."
+    ],
+    "actions": [
+      {
+        "action": "Reduce the discount percentage for Fizz Cola 330ml to 10% to align with a safer profitability threshold.",
+        "type": "reduce_discount",
+        "expected_impact": "Improve net incremental profit by reducing subsidy costs and discount spend.",
+        "confidence": "high"
+      },
+      {
+        "action": "Re-evaluate Fizz Cola 330ml as a promotional item, considering its low margin and high breakeven lift requirement.",
+        "type": "change_product",
+        "expected_impact": "Identify alternative products with higher margins or better price elasticity for future promotions.",
+        "confidence": "medium"
+      },
+      {
+        "action": "Consider stopping similar deep-discount promotions on low-margin products within the Beverages category.",
+        "type": "stop",
+        "expected_impact": "Prevent future losses from promotions that are unlikely to achieve profitability.",
+        "confidence": "high"
+      }
+    ],
     "suggested_discount_pct": 0.1,
-    "source": "fallback"
+    "source": "gemini"
   },
   "PR06": {
     "promo_id": "PR06",
