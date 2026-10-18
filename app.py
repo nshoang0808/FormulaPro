@@ -85,6 +85,11 @@ def load_timeseries(promo_id: str):
 def load_candidates():
     return pi.get_next_candidates()
 
+
+def md(text: str) -> str:
+    """Escape $ so Streamlit doesn't render dollar amounts in AI text as LaTeX."""
+    return text.replace("$", "\\$")
+
 # --- Initialize Session State for AI Insights & Recommendations ---
 if "insights" not in st.session_state:
     st.session_state["insights"] = {}
@@ -322,12 +327,12 @@ if insight:
     if insight.source == "fallback":
         st.caption("Offline insight (AI unavailable)")
 
-    st.markdown(f"#### **{insight.headline}**")
-    st.write(insight.explanation)
+    st.markdown(f"#### **{md(insight.headline)}**")
+    st.markdown(md(insight.explanation))
 
     st.markdown("**Root Causes:**")
     for rc in insight.root_causes:
-        st.markdown(f"- {rc}")
+        st.markdown(f"- {md(rc)}")
 
     if insight.actions:
         st.markdown("**Recommended Actions:**")
@@ -346,8 +351,8 @@ if insight:
                         """,
                         unsafe_allow_html=True,
                     )
-                    st.markdown(f"**{act.action}**")
-                    st.markdown(f"<div style='color:#57606a; font-size:0.88rem; margin-top:4px;'><b>Impact:</b> {act.expected_impact}</div>", unsafe_allow_html=True)
+                    st.markdown(f"**{md(act.action)}**")
+                    st.markdown(f"<div style='color:#57606a; font-size:0.88rem; margin-top:4px;'><b>Impact:</b> {md(act.expected_impact)}</div>", unsafe_allow_html=True)
 
 # ==============================================================================
 # SECTION 4: NEXT PROMOTIONS
@@ -420,5 +425,5 @@ if recs:
                         """,
                         unsafe_allow_html=True,
                     )
-                    st.markdown(f"**Rationale:** {rec.rationale}")
-                    st.markdown(f"<div style='color:#57606a; font-size:0.88rem; margin-top:4px;'><b>Impact:</b> {rec.expected_impact}</div>", unsafe_allow_html=True)
+                    st.markdown(f"**Rationale:** {md(rec.rationale)}")
+                    st.markdown(f"<div style='color:#57606a; font-size:0.88rem; margin-top:4px;'><b>Impact:</b> {md(rec.expected_impact)}</div>", unsafe_allow_html=True)
