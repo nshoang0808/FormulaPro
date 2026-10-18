@@ -40,7 +40,7 @@ PRODUCTS = [
 # promo_id, promo_name, product_id, discount_pct, start_day, days, planted_lift, sibling_effects
 PROMOTIONS = [
     ("PR01", "Cola Summer Blast 30% Off", "B01", 0.30, 60, 14, 0.85, {}),  # margin trap
-    ("PR02", "Cold Brew 15% Off", "B03", 0.15, 120, 14, 0.45, {}),
+    ("PR02", "Cold Brew 15% Off", "B03", 0.15, 120, 14, 0.60, {}),
     ("PR03", "Chips 20% Off", "S01", 0.20, 45, 14, 0.70, {}),
     ("PR04", "Chocolate 10% Off", "S03", 0.10, 100, 14, 0.35, {}),
     ("PR05", "Pretzel 25% Off", "S05", 0.25, 150, 14, 0.40, {}),
