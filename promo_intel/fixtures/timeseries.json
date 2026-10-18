@@ -1,0 +1,3782 @@
+[
+  {
+    "promo_id": "PR07",
+    "date": "2026-07-26T00:00:00.000",
+    "units": 30,
+    "net_revenue": 450.0,
+    "gross_profit": 270.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-07-27T00:00:00.000",
+    "units": 25,
+    "net_revenue": 375.0,
+    "gross_profit": 225.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-07-28T00:00:00.000",
+    "units": 25,
+    "net_revenue": 375.0,
+    "gross_profit": 225.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-07-29T00:00:00.000",
+    "units": 28,
+    "net_revenue": 420.0,
+    "gross_profit": 252.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-07-30T00:00:00.000",
+    "units": 21,
+    "net_revenue": 315.0,
+    "gross_profit": 189.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-07-31T00:00:00.000",
+    "units": 24,
+    "net_revenue": 360.0,
+    "gross_profit": 216.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-01T00:00:00.000",
+    "units": 29,
+    "net_revenue": 435.0,
+    "gross_profit": 261.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-02T00:00:00.000",
+    "units": 32,
+    "net_revenue": 480.0,
+    "gross_profit": 288.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-03T00:00:00.000",
+    "units": 23,
+    "net_revenue": 345.0,
+    "gross_profit": 207.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-04T00:00:00.000",
+    "units": 25,
+    "net_revenue": 375.0,
+    "gross_profit": 225.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-05T00:00:00.000",
+    "units": 22,
+    "net_revenue": 330.0,
+    "gross_profit": 198.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-06T00:00:00.000",
+    "units": 26,
+    "net_revenue": 390.0,
+    "gross_profit": 234.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-07T00:00:00.000",
+    "units": 25,
+    "net_revenue": 375.0,
+    "gross_profit": 225.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-08T00:00:00.000",
+    "units": 30,
+    "net_revenue": 450.0,
+    "gross_profit": 270.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-09T00:00:00.000",
+    "units": 48,
+    "net_revenue": 648.0,
+    "gross_profit": 360.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-10T00:00:00.000",
+    "units": 38,
+    "net_revenue": 513.0,
+    "gross_profit": 285.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-11T00:00:00.000",
+    "units": 40,
+    "net_revenue": 540.0,
+    "gross_profit": 300.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-12T00:00:00.000",
+    "units": 42,
+    "net_revenue": 567.0,
+    "gross_profit": 315.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-13T00:00:00.000",
+    "units": 39,
+    "net_revenue": 526.5,
+    "gross_profit": 292.5,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-14T00:00:00.000",
+    "units": 36,
+    "net_revenue": 486.0,
+    "gross_profit": 270.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-15T00:00:00.000",
+    "units": 46,
+    "net_revenue": 621.0,
+    "gross_profit": 345.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-16T00:00:00.000",
+    "units": 51,
+    "net_revenue": 688.5,
+    "gross_profit": 382.5,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-17T00:00:00.000",
+    "units": 42,
+    "net_revenue": 567.0,
+    "gross_profit": 315.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-18T00:00:00.000",
+    "units": 42,
+    "net_revenue": 567.0,
+    "gross_profit": 315.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-19T00:00:00.000",
+    "units": 38,
+    "net_revenue": 513.0,
+    "gross_profit": 285.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-20T00:00:00.000",
+    "units": 41,
+    "net_revenue": 553.5,
+    "gross_profit": 307.5,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-21T00:00:00.000",
+    "units": 40,
+    "net_revenue": 540.0,
+    "gross_profit": 300.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-22T00:00:00.000",
+    "units": 49,
+    "net_revenue": 661.5,
+    "gross_profit": 367.5,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-23T00:00:00.000",
+    "units": 31,
+    "net_revenue": 465.0,
+    "gross_profit": 279.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-24T00:00:00.000",
+    "units": 25,
+    "net_revenue": 375.0,
+    "gross_profit": 225.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-25T00:00:00.000",
+    "units": 27,
+    "net_revenue": 405.0,
+    "gross_profit": 243.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-26T00:00:00.000",
+    "units": 25,
+    "net_revenue": 375.0,
+    "gross_profit": 225.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-27T00:00:00.000",
+    "units": 24,
+    "net_revenue": 360.0,
+    "gross_profit": 216.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-28T00:00:00.000",
+    "units": 24,
+    "net_revenue": 360.0,
+    "gross_profit": 216.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-29T00:00:00.000",
+    "units": 30,
+    "net_revenue": 450.0,
+    "gross_profit": 270.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-30T00:00:00.000",
+    "units": 27,
+    "net_revenue": 405.0,
+    "gross_profit": 243.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-08-31T00:00:00.000",
+    "units": 24,
+    "net_revenue": 360.0,
+    "gross_profit": 216.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-09-01T00:00:00.000",
+    "units": 26,
+    "net_revenue": 390.0,
+    "gross_profit": 234.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-09-02T00:00:00.000",
+    "units": 24,
+    "net_revenue": 360.0,
+    "gross_profit": 216.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-09-03T00:00:00.000",
+    "units": 24,
+    "net_revenue": 360.0,
+    "gross_profit": 216.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-09-04T00:00:00.000",
+    "units": 24,
+    "net_revenue": 360.0,
+    "gross_profit": 216.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR07",
+    "date": "2026-09-05T00:00:00.000",
+    "units": 29,
+    "net_revenue": 435.0,
+    "gross_profit": 261.0,
+    "baseline_daily_units": 26.25,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-06-26T00:00:00.000",
+    "units": 47,
+    "net_revenue": 94.0,
+    "gross_profit": 51.7,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-06-27T00:00:00.000",
+    "units": 63,
+    "net_revenue": 126.0,
+    "gross_profit": 69.3,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-06-28T00:00:00.000",
+    "units": 59,
+    "net_revenue": 118.0,
+    "gross_profit": 64.9,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-06-29T00:00:00.000",
+    "units": 51,
+    "net_revenue": 102.0,
+    "gross_profit": 56.1,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-06-30T00:00:00.000",
+    "units": 49,
+    "net_revenue": 98.0,
+    "gross_profit": 53.9,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-01T00:00:00.000",
+    "units": 54,
+    "net_revenue": 108.0,
+    "gross_profit": 59.4,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-02T00:00:00.000",
+    "units": 48,
+    "net_revenue": 96.0,
+    "gross_profit": 52.8,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-03T00:00:00.000",
+    "units": 49,
+    "net_revenue": 98.0,
+    "gross_profit": 53.9,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-04T00:00:00.000",
+    "units": 60,
+    "net_revenue": 120.0,
+    "gross_profit": 66.0,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-05T00:00:00.000",
+    "units": 55,
+    "net_revenue": 110.0,
+    "gross_profit": 60.5,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-06T00:00:00.000",
+    "units": 56,
+    "net_revenue": 112.0,
+    "gross_profit": 61.6,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-07T00:00:00.000",
+    "units": 52,
+    "net_revenue": 104.0,
+    "gross_profit": 57.2,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-08T00:00:00.000",
+    "units": 47,
+    "net_revenue": 94.0,
+    "gross_profit": 51.7,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-09T00:00:00.000",
+    "units": 49,
+    "net_revenue": 98.0,
+    "gross_profit": 53.9,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-10T00:00:00.000",
+    "units": 61,
+    "net_revenue": 109.8,
+    "gross_profit": 54.9,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-11T00:00:00.000",
+    "units": 87,
+    "net_revenue": 156.6,
+    "gross_profit": 78.3,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-12T00:00:00.000",
+    "units": 81,
+    "net_revenue": 145.8,
+    "gross_profit": 72.9,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-13T00:00:00.000",
+    "units": 65,
+    "net_revenue": 117.0,
+    "gross_profit": 58.5,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-14T00:00:00.000",
+    "units": 63,
+    "net_revenue": 113.4,
+    "gross_profit": 56.7,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-15T00:00:00.000",
+    "units": 69,
+    "net_revenue": 124.2,
+    "gross_profit": 62.1,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-16T00:00:00.000",
+    "units": 65,
+    "net_revenue": 117.0,
+    "gross_profit": 58.5,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-17T00:00:00.000",
+    "units": 71,
+    "net_revenue": 127.8,
+    "gross_profit": 63.9,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-18T00:00:00.000",
+    "units": 79,
+    "net_revenue": 142.2,
+    "gross_profit": 71.1,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-19T00:00:00.000",
+    "units": 82,
+    "net_revenue": 147.6,
+    "gross_profit": 73.8,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-20T00:00:00.000",
+    "units": 63,
+    "net_revenue": 113.4,
+    "gross_profit": 56.7,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-21T00:00:00.000",
+    "units": 64,
+    "net_revenue": 115.2,
+    "gross_profit": 57.6,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-22T00:00:00.000",
+    "units": 71,
+    "net_revenue": 127.8,
+    "gross_profit": 63.9,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-23T00:00:00.000",
+    "units": 64,
+    "net_revenue": 115.2,
+    "gross_profit": 57.6,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-24T00:00:00.000",
+    "units": 54,
+    "net_revenue": 108.0,
+    "gross_profit": 59.4,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-25T00:00:00.000",
+    "units": 66,
+    "net_revenue": 132.0,
+    "gross_profit": 72.6,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-26T00:00:00.000",
+    "units": 49,
+    "net_revenue": 98.0,
+    "gross_profit": 53.9,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-27T00:00:00.000",
+    "units": 53,
+    "net_revenue": 106.0,
+    "gross_profit": 58.3,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-28T00:00:00.000",
+    "units": 48,
+    "net_revenue": 96.0,
+    "gross_profit": 52.8,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-29T00:00:00.000",
+    "units": 47,
+    "net_revenue": 94.0,
+    "gross_profit": 51.7,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-30T00:00:00.000",
+    "units": 51,
+    "net_revenue": 102.0,
+    "gross_profit": 56.1,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-07-31T00:00:00.000",
+    "units": 50,
+    "net_revenue": 100.0,
+    "gross_profit": 55.0,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-08-01T00:00:00.000",
+    "units": 64,
+    "net_revenue": 128.0,
+    "gross_profit": 70.4,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-08-02T00:00:00.000",
+    "units": 63,
+    "net_revenue": 126.0,
+    "gross_profit": 69.3,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-08-03T00:00:00.000",
+    "units": 47,
+    "net_revenue": 94.0,
+    "gross_profit": 51.7,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-08-04T00:00:00.000",
+    "units": 50,
+    "net_revenue": 100.0,
+    "gross_profit": 55.0,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-08-05T00:00:00.000",
+    "units": 53,
+    "net_revenue": 106.0,
+    "gross_profit": 58.3,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR04",
+    "date": "2026-08-06T00:00:00.000",
+    "units": 52,
+    "net_revenue": 104.0,
+    "gross_profit": 57.2,
+    "baseline_daily_units": 52.3928571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-16T00:00:00.000",
+    "units": 26,
+    "net_revenue": 91.0,
+    "gross_profit": 45.5,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-17T00:00:00.000",
+    "units": 25,
+    "net_revenue": 87.5,
+    "gross_profit": 43.75,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-18T00:00:00.000",
+    "units": 32,
+    "net_revenue": 112.0,
+    "gross_profit": 56.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-19T00:00:00.000",
+    "units": 27,
+    "net_revenue": 94.5,
+    "gross_profit": 47.25,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-20T00:00:00.000",
+    "units": 24,
+    "net_revenue": 84.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-21T00:00:00.000",
+    "units": 25,
+    "net_revenue": 87.5,
+    "gross_profit": 43.75,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-22T00:00:00.000",
+    "units": 22,
+    "net_revenue": 77.0,
+    "gross_profit": 38.5,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-23T00:00:00.000",
+    "units": 28,
+    "net_revenue": 98.0,
+    "gross_profit": 49.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-24T00:00:00.000",
+    "units": 27,
+    "net_revenue": 94.5,
+    "gross_profit": 47.25,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-25T00:00:00.000",
+    "units": 31,
+    "net_revenue": 108.5,
+    "gross_profit": 54.25,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-26T00:00:00.000",
+    "units": 28,
+    "net_revenue": 98.0,
+    "gross_profit": 49.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-27T00:00:00.000",
+    "units": 27,
+    "net_revenue": 94.5,
+    "gross_profit": 47.25,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-28T00:00:00.000",
+    "units": 28,
+    "net_revenue": 98.0,
+    "gross_profit": 49.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-29T00:00:00.000",
+    "units": 24,
+    "net_revenue": 84.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-30T00:00:00.000",
+    "units": 40,
+    "net_revenue": 119.01,
+    "gross_profit": 49.01,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-07-31T00:00:00.000",
+    "units": 40,
+    "net_revenue": 119.0,
+    "gross_profit": 49.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-01T00:00:00.000",
+    "units": 53,
+    "net_revenue": 157.71,
+    "gross_profit": 64.96,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-02T00:00:00.000",
+    "units": 44,
+    "net_revenue": 130.88,
+    "gross_profit": 53.88,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-03T00:00:00.000",
+    "units": 44,
+    "net_revenue": 130.91,
+    "gross_profit": 53.91,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-04T00:00:00.000",
+    "units": 42,
+    "net_revenue": 124.93,
+    "gross_profit": 51.43,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-05T00:00:00.000",
+    "units": 44,
+    "net_revenue": 130.9,
+    "gross_profit": 53.9,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-06T00:00:00.000",
+    "units": 42,
+    "net_revenue": 124.96,
+    "gross_profit": 51.46,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-07T00:00:00.000",
+    "units": 43,
+    "net_revenue": 127.91,
+    "gross_profit": 52.66,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-08T00:00:00.000",
+    "units": 49,
+    "net_revenue": 145.79,
+    "gross_profit": 60.04,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-09T00:00:00.000",
+    "units": 45,
+    "net_revenue": 133.87,
+    "gross_profit": 55.12,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-10T00:00:00.000",
+    "units": 40,
+    "net_revenue": 119.0,
+    "gross_profit": 49.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-11T00:00:00.000",
+    "units": 43,
+    "net_revenue": 127.91,
+    "gross_profit": 52.66,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-12T00:00:00.000",
+    "units": 40,
+    "net_revenue": 119.0,
+    "gross_profit": 49.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-13T00:00:00.000",
+    "units": 26,
+    "net_revenue": 91.0,
+    "gross_profit": 45.5,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-14T00:00:00.000",
+    "units": 25,
+    "net_revenue": 87.5,
+    "gross_profit": 43.75,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-15T00:00:00.000",
+    "units": 31,
+    "net_revenue": 108.5,
+    "gross_profit": 54.25,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-16T00:00:00.000",
+    "units": 32,
+    "net_revenue": 112.0,
+    "gross_profit": 56.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-17T00:00:00.000",
+    "units": 24,
+    "net_revenue": 84.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-18T00:00:00.000",
+    "units": 24,
+    "net_revenue": 84.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-19T00:00:00.000",
+    "units": 25,
+    "net_revenue": 87.5,
+    "gross_profit": 43.75,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-20T00:00:00.000",
+    "units": 25,
+    "net_revenue": 87.5,
+    "gross_profit": 43.75,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-21T00:00:00.000",
+    "units": 25,
+    "net_revenue": 87.5,
+    "gross_profit": 43.75,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-22T00:00:00.000",
+    "units": 29,
+    "net_revenue": 101.5,
+    "gross_profit": 50.75,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-23T00:00:00.000",
+    "units": 29,
+    "net_revenue": 101.5,
+    "gross_profit": 50.75,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-24T00:00:00.000",
+    "units": 24,
+    "net_revenue": 84.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-25T00:00:00.000",
+    "units": 24,
+    "net_revenue": 84.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR02",
+    "date": "2026-08-26T00:00:00.000",
+    "units": 26,
+    "net_revenue": 91.0,
+    "gross_profit": 45.5,
+    "baseline_daily_units": 26.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-06-21T00:00:00.000",
+    "units": 23,
+    "net_revenue": 276.0,
+    "gross_profit": 124.2,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-06-22T00:00:00.000",
+    "units": 19,
+    "net_revenue": 228.0,
+    "gross_profit": 102.6,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-06-23T00:00:00.000",
+    "units": 19,
+    "net_revenue": 228.0,
+    "gross_profit": 102.6,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-06-24T00:00:00.000",
+    "units": 20,
+    "net_revenue": 240.0,
+    "gross_profit": 108.0,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-06-25T00:00:00.000",
+    "units": 19,
+    "net_revenue": 228.0,
+    "gross_profit": 102.6,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-06-26T00:00:00.000",
+    "units": 20,
+    "net_revenue": 240.0,
+    "gross_profit": 108.0,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-06-27T00:00:00.000",
+    "units": 27,
+    "net_revenue": 324.0,
+    "gross_profit": 145.8,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-06-28T00:00:00.000",
+    "units": 22,
+    "net_revenue": 264.0,
+    "gross_profit": 118.8,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-06-29T00:00:00.000",
+    "units": 20,
+    "net_revenue": 240.0,
+    "gross_profit": 108.0,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-06-30T00:00:00.000",
+    "units": 22,
+    "net_revenue": 264.0,
+    "gross_profit": 118.8,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-01T00:00:00.000",
+    "units": 20,
+    "net_revenue": 240.0,
+    "gross_profit": 108.0,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-02T00:00:00.000",
+    "units": 20,
+    "net_revenue": 240.0,
+    "gross_profit": 108.0,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-03T00:00:00.000",
+    "units": 20,
+    "net_revenue": 240.0,
+    "gross_profit": 108.0,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-04T00:00:00.000",
+    "units": 23,
+    "net_revenue": 276.0,
+    "gross_profit": 124.2,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-05T00:00:00.000",
+    "units": 37,
+    "net_revenue": 377.4,
+    "gross_profit": 133.2,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-06T00:00:00.000",
+    "units": 34,
+    "net_revenue": 346.8,
+    "gross_profit": 122.4,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-07T00:00:00.000",
+    "units": 31,
+    "net_revenue": 316.2,
+    "gross_profit": 111.6,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-08T00:00:00.000",
+    "units": 32,
+    "net_revenue": 326.4,
+    "gross_profit": 115.2,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-09T00:00:00.000",
+    "units": 30,
+    "net_revenue": 306.0,
+    "gross_profit": 108.0,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-10T00:00:00.000",
+    "units": 28,
+    "net_revenue": 285.6,
+    "gross_profit": 100.8,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-11T00:00:00.000",
+    "units": 34,
+    "net_revenue": 346.8,
+    "gross_profit": 122.4,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-12T00:00:00.000",
+    "units": 33,
+    "net_revenue": 336.6,
+    "gross_profit": 118.8,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-13T00:00:00.000",
+    "units": 32,
+    "net_revenue": 326.4,
+    "gross_profit": 115.2,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-14T00:00:00.000",
+    "units": 31,
+    "net_revenue": 316.2,
+    "gross_profit": 111.6,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-15T00:00:00.000",
+    "units": 33,
+    "net_revenue": 336.6,
+    "gross_profit": 118.8,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-16T00:00:00.000",
+    "units": 32,
+    "net_revenue": 326.4,
+    "gross_profit": 115.2,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-17T00:00:00.000",
+    "units": 31,
+    "net_revenue": 316.2,
+    "gross_profit": 111.6,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-18T00:00:00.000",
+    "units": 39,
+    "net_revenue": 397.8,
+    "gross_profit": 140.4,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-19T00:00:00.000",
+    "units": 23,
+    "net_revenue": 276.0,
+    "gross_profit": 124.2,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-20T00:00:00.000",
+    "units": 19,
+    "net_revenue": 228.0,
+    "gross_profit": 102.6,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-21T00:00:00.000",
+    "units": 21,
+    "net_revenue": 252.0,
+    "gross_profit": 113.4,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-22T00:00:00.000",
+    "units": 22,
+    "net_revenue": 264.0,
+    "gross_profit": 118.8,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-23T00:00:00.000",
+    "units": 20,
+    "net_revenue": 240.0,
+    "gross_profit": 108.0,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-24T00:00:00.000",
+    "units": 19,
+    "net_revenue": 228.0,
+    "gross_profit": 102.6,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-25T00:00:00.000",
+    "units": 23,
+    "net_revenue": 276.0,
+    "gross_profit": 124.2,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-26T00:00:00.000",
+    "units": 26,
+    "net_revenue": 312.0,
+    "gross_profit": 140.4,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-27T00:00:00.000",
+    "units": 19,
+    "net_revenue": 228.0,
+    "gross_profit": 102.6,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-28T00:00:00.000",
+    "units": 23,
+    "net_revenue": 276.0,
+    "gross_profit": 124.2,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-29T00:00:00.000",
+    "units": 19,
+    "net_revenue": 228.0,
+    "gross_profit": 102.6,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-30T00:00:00.000",
+    "units": 18,
+    "net_revenue": 216.0,
+    "gross_profit": 97.2,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-07-31T00:00:00.000",
+    "units": 21,
+    "net_revenue": 252.0,
+    "gross_profit": 113.4,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR09",
+    "date": "2026-08-01T00:00:00.000",
+    "units": 25,
+    "net_revenue": 300.0,
+    "gross_profit": 135.0,
+    "baseline_daily_units": 21.0357142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-05T00:00:00.000",
+    "units": 23,
+    "net_revenue": 92.0,
+    "gross_profit": 50.6,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-06T00:00:00.000",
+    "units": 23,
+    "net_revenue": 92.0,
+    "gross_profit": 50.6,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-07T00:00:00.000",
+    "units": 24,
+    "net_revenue": 96.0,
+    "gross_profit": 52.8,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-08T00:00:00.000",
+    "units": 30,
+    "net_revenue": 120.0,
+    "gross_profit": 66.0,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-09T00:00:00.000",
+    "units": 31,
+    "net_revenue": 124.0,
+    "gross_profit": 68.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-10T00:00:00.000",
+    "units": 26,
+    "net_revenue": 104.0,
+    "gross_profit": 57.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-11T00:00:00.000",
+    "units": 23,
+    "net_revenue": 92.0,
+    "gross_profit": 50.6,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-12T00:00:00.000",
+    "units": 26,
+    "net_revenue": 104.0,
+    "gross_profit": 57.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-13T00:00:00.000",
+    "units": 26,
+    "net_revenue": 104.0,
+    "gross_profit": 57.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-14T00:00:00.000",
+    "units": 26,
+    "net_revenue": 104.0,
+    "gross_profit": 57.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-15T00:00:00.000",
+    "units": 29,
+    "net_revenue": 116.0,
+    "gross_profit": 63.8,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-16T00:00:00.000",
+    "units": 28,
+    "net_revenue": 112.0,
+    "gross_profit": 61.6,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-17T00:00:00.000",
+    "units": 24,
+    "net_revenue": 96.0,
+    "gross_profit": 52.8,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-18T00:00:00.000",
+    "units": 25,
+    "net_revenue": 100.0,
+    "gross_profit": 55.0,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-19T00:00:00.000",
+    "units": 34,
+    "net_revenue": 122.4,
+    "gross_profit": 61.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-20T00:00:00.000",
+    "units": 32,
+    "net_revenue": 115.2,
+    "gross_profit": 57.6,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-21T00:00:00.000",
+    "units": 29,
+    "net_revenue": 104.4,
+    "gross_profit": 52.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-22T00:00:00.000",
+    "units": 37,
+    "net_revenue": 133.2,
+    "gross_profit": 66.6,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-23T00:00:00.000",
+    "units": 36,
+    "net_revenue": 129.6,
+    "gross_profit": 64.8,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-24T00:00:00.000",
+    "units": 29,
+    "net_revenue": 104.4,
+    "gross_profit": 52.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-25T00:00:00.000",
+    "units": 29,
+    "net_revenue": 104.4,
+    "gross_profit": 52.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-26T00:00:00.000",
+    "units": 33,
+    "net_revenue": 118.8,
+    "gross_profit": 59.4,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-27T00:00:00.000",
+    "units": 35,
+    "net_revenue": 126.0,
+    "gross_profit": 63.0,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-28T00:00:00.000",
+    "units": 31,
+    "net_revenue": 111.6,
+    "gross_profit": 55.8,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-29T00:00:00.000",
+    "units": 36,
+    "net_revenue": 129.6,
+    "gross_profit": 64.8,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-30T00:00:00.000",
+    "units": 41,
+    "net_revenue": 147.6,
+    "gross_profit": 73.8,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-08-31T00:00:00.000",
+    "units": 32,
+    "net_revenue": 115.2,
+    "gross_profit": 57.6,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-01T00:00:00.000",
+    "units": 34,
+    "net_revenue": 122.4,
+    "gross_profit": 61.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-02T00:00:00.000",
+    "units": 22,
+    "net_revenue": 88.0,
+    "gross_profit": 48.4,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-03T00:00:00.000",
+    "units": 27,
+    "net_revenue": 108.0,
+    "gross_profit": 59.4,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-04T00:00:00.000",
+    "units": 26,
+    "net_revenue": 104.0,
+    "gross_profit": 57.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-05T00:00:00.000",
+    "units": 29,
+    "net_revenue": 116.0,
+    "gross_profit": 63.8,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-06T00:00:00.000",
+    "units": 32,
+    "net_revenue": 128.0,
+    "gross_profit": 70.4,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-07T00:00:00.000",
+    "units": 22,
+    "net_revenue": 88.0,
+    "gross_profit": 48.4,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-08T00:00:00.000",
+    "units": 23,
+    "net_revenue": 92.0,
+    "gross_profit": 50.6,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-09T00:00:00.000",
+    "units": 24,
+    "net_revenue": 96.0,
+    "gross_profit": 52.8,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-10T00:00:00.000",
+    "units": 25,
+    "net_revenue": 100.0,
+    "gross_profit": 55.0,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-11T00:00:00.000",
+    "units": 25,
+    "net_revenue": 100.0,
+    "gross_profit": 55.0,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-12T00:00:00.000",
+    "units": 29,
+    "net_revenue": 116.0,
+    "gross_profit": 63.8,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-13T00:00:00.000",
+    "units": 31,
+    "net_revenue": 124.0,
+    "gross_profit": 68.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-14T00:00:00.000",
+    "units": 25,
+    "net_revenue": 100.0,
+    "gross_profit": 55.0,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR10",
+    "date": "2026-09-15T00:00:00.000",
+    "units": 26,
+    "net_revenue": 104.0,
+    "gross_profit": 57.2,
+    "baseline_daily_units": 26.4285714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-02T00:00:00.000",
+    "units": 45,
+    "net_revenue": 135.0,
+    "gross_profit": 67.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-03T00:00:00.000",
+    "units": 53,
+    "net_revenue": 159.0,
+    "gross_profit": 79.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-04T00:00:00.000",
+    "units": 40,
+    "net_revenue": 120.0,
+    "gross_profit": 60.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-05T00:00:00.000",
+    "units": 37,
+    "net_revenue": 111.0,
+    "gross_profit": 55.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-06T00:00:00.000",
+    "units": 43,
+    "net_revenue": 129.0,
+    "gross_profit": 64.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-07T00:00:00.000",
+    "units": 40,
+    "net_revenue": 120.0,
+    "gross_profit": 60.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-08T00:00:00.000",
+    "units": 38,
+    "net_revenue": 114.0,
+    "gross_profit": 57.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-09T00:00:00.000",
+    "units": 52,
+    "net_revenue": 156.0,
+    "gross_profit": 78.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-10T00:00:00.000",
+    "units": 44,
+    "net_revenue": 132.0,
+    "gross_profit": 66.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-11T00:00:00.000",
+    "units": 40,
+    "net_revenue": 120.0,
+    "gross_profit": 60.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-12T00:00:00.000",
+    "units": 41,
+    "net_revenue": 123.0,
+    "gross_profit": 61.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-13T00:00:00.000",
+    "units": 38,
+    "net_revenue": 114.0,
+    "gross_profit": 57.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-14T00:00:00.000",
+    "units": 37,
+    "net_revenue": 111.0,
+    "gross_profit": 55.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-15T00:00:00.000",
+    "units": 39,
+    "net_revenue": 117.0,
+    "gross_profit": 58.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-16T00:00:00.000",
+    "units": 82,
+    "net_revenue": 196.8,
+    "gross_profit": 73.8,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-17T00:00:00.000",
+    "units": 75,
+    "net_revenue": 180.0,
+    "gross_profit": 67.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-18T00:00:00.000",
+    "units": 64,
+    "net_revenue": 153.6,
+    "gross_profit": 57.6,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-19T00:00:00.000",
+    "units": 76,
+    "net_revenue": 182.4,
+    "gross_profit": 68.4,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-20T00:00:00.000",
+    "units": 67,
+    "net_revenue": 160.8,
+    "gross_profit": 60.3,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-21T00:00:00.000",
+    "units": 70,
+    "net_revenue": 168.0,
+    "gross_profit": 63.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-22T00:00:00.000",
+    "units": 67,
+    "net_revenue": 160.8,
+    "gross_profit": 60.3,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-23T00:00:00.000",
+    "units": 83,
+    "net_revenue": 199.2,
+    "gross_profit": 74.7,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-24T00:00:00.000",
+    "units": 76,
+    "net_revenue": 182.4,
+    "gross_profit": 68.4,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-25T00:00:00.000",
+    "units": 66,
+    "net_revenue": 158.4,
+    "gross_profit": 59.4,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-26T00:00:00.000",
+    "units": 71,
+    "net_revenue": 170.4,
+    "gross_profit": 63.9,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-27T00:00:00.000",
+    "units": 64,
+    "net_revenue": 153.6,
+    "gross_profit": 57.6,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-28T00:00:00.000",
+    "units": 71,
+    "net_revenue": 170.4,
+    "gross_profit": 63.9,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-29T00:00:00.000",
+    "units": 69,
+    "net_revenue": 165.6,
+    "gross_profit": 62.1,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-30T00:00:00.000",
+    "units": 45,
+    "net_revenue": 135.0,
+    "gross_profit": 67.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-05-31T00:00:00.000",
+    "units": 50,
+    "net_revenue": 150.0,
+    "gross_profit": 75.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-01T00:00:00.000",
+    "units": 43,
+    "net_revenue": 129.0,
+    "gross_profit": 64.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-02T00:00:00.000",
+    "units": 43,
+    "net_revenue": 129.0,
+    "gross_profit": 64.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-03T00:00:00.000",
+    "units": 41,
+    "net_revenue": 123.0,
+    "gross_profit": 61.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-04T00:00:00.000",
+    "units": 42,
+    "net_revenue": 126.0,
+    "gross_profit": 63.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-05T00:00:00.000",
+    "units": 40,
+    "net_revenue": 120.0,
+    "gross_profit": 60.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-06T00:00:00.000",
+    "units": 53,
+    "net_revenue": 159.0,
+    "gross_profit": 79.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-07T00:00:00.000",
+    "units": 50,
+    "net_revenue": 150.0,
+    "gross_profit": 75.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-08T00:00:00.000",
+    "units": 40,
+    "net_revenue": 120.0,
+    "gross_profit": 60.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-09T00:00:00.000",
+    "units": 41,
+    "net_revenue": 123.0,
+    "gross_profit": 61.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-10T00:00:00.000",
+    "units": 41,
+    "net_revenue": 123.0,
+    "gross_profit": 61.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-11T00:00:00.000",
+    "units": 41,
+    "net_revenue": 123.0,
+    "gross_profit": 61.5,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR03",
+    "date": "2026-06-12T00:00:00.000",
+    "units": 38,
+    "net_revenue": 114.0,
+    "gross_profit": 57.0,
+    "baseline_daily_units": 42.6785714286,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-07T00:00:00.000",
+    "units": 37,
+    "net_revenue": 129.5,
+    "gross_profit": 51.8,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-08T00:00:00.000",
+    "units": 45,
+    "net_revenue": 157.5,
+    "gross_profit": 63.0,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-09T00:00:00.000",
+    "units": 53,
+    "net_revenue": 185.5,
+    "gross_profit": 74.2,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-10T00:00:00.000",
+    "units": 49,
+    "net_revenue": 171.5,
+    "gross_profit": 68.6,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-11T00:00:00.000",
+    "units": 39,
+    "net_revenue": 136.5,
+    "gross_profit": 54.6,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-12T00:00:00.000",
+    "units": 37,
+    "net_revenue": 129.5,
+    "gross_profit": 51.8,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-13T00:00:00.000",
+    "units": 37,
+    "net_revenue": 129.5,
+    "gross_profit": 51.8,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-14T00:00:00.000",
+    "units": 39,
+    "net_revenue": 136.5,
+    "gross_profit": 54.6,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-15T00:00:00.000",
+    "units": 39,
+    "net_revenue": 136.5,
+    "gross_profit": 54.6,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-16T00:00:00.000",
+    "units": 48,
+    "net_revenue": 168.0,
+    "gross_profit": 67.2,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-17T00:00:00.000",
+    "units": 45,
+    "net_revenue": 157.5,
+    "gross_profit": 63.0,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-18T00:00:00.000",
+    "units": 40,
+    "net_revenue": 140.0,
+    "gross_profit": 56.0,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-19T00:00:00.000",
+    "units": 45,
+    "net_revenue": 157.5,
+    "gross_profit": 63.0,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-20T00:00:00.000",
+    "units": 46,
+    "net_revenue": 161.0,
+    "gross_profit": 64.4,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-21T00:00:00.000",
+    "units": 40,
+    "net_revenue": 112.0,
+    "gross_profit": 28.0,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-22T00:00:00.000",
+    "units": 37,
+    "net_revenue": 103.6,
+    "gross_profit": 25.9,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-23T00:00:00.000",
+    "units": 54,
+    "net_revenue": 151.2,
+    "gross_profit": 37.8,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-24T00:00:00.000",
+    "units": 51,
+    "net_revenue": 142.8,
+    "gross_profit": 35.7,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-25T00:00:00.000",
+    "units": 42,
+    "net_revenue": 117.6,
+    "gross_profit": 29.4,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-26T00:00:00.000",
+    "units": 39,
+    "net_revenue": 109.2,
+    "gross_profit": 27.3,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-27T00:00:00.000",
+    "units": 44,
+    "net_revenue": 123.2,
+    "gross_profit": 30.8,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-28T00:00:00.000",
+    "units": 44,
+    "net_revenue": 123.2,
+    "gross_profit": 30.8,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-29T00:00:00.000",
+    "units": 39,
+    "net_revenue": 109.2,
+    "gross_profit": 27.3,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-30T00:00:00.000",
+    "units": 56,
+    "net_revenue": 156.8,
+    "gross_profit": 39.2,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-05-31T00:00:00.000",
+    "units": 50,
+    "net_revenue": 140.0,
+    "gross_profit": 35.0,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-01T00:00:00.000",
+    "units": 42,
+    "net_revenue": 117.6,
+    "gross_profit": 29.4,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-02T00:00:00.000",
+    "units": 42,
+    "net_revenue": 117.6,
+    "gross_profit": 29.4,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-03T00:00:00.000",
+    "units": 43,
+    "net_revenue": 120.4,
+    "gross_profit": 30.1,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-04T00:00:00.000",
+    "units": 43,
+    "net_revenue": 150.5,
+    "gross_profit": 60.2,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-05T00:00:00.000",
+    "units": 38,
+    "net_revenue": 133.0,
+    "gross_profit": 53.2,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-06T00:00:00.000",
+    "units": 49,
+    "net_revenue": 171.5,
+    "gross_profit": 68.6,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-07T00:00:00.000",
+    "units": 42,
+    "net_revenue": 147.0,
+    "gross_profit": 58.8,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-08T00:00:00.000",
+    "units": 43,
+    "net_revenue": 150.5,
+    "gross_profit": 60.2,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-09T00:00:00.000",
+    "units": 40,
+    "net_revenue": 140.0,
+    "gross_profit": 56.0,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-10T00:00:00.000",
+    "units": 43,
+    "net_revenue": 150.5,
+    "gross_profit": 60.2,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-11T00:00:00.000",
+    "units": 42,
+    "net_revenue": 147.0,
+    "gross_profit": 58.8,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-12T00:00:00.000",
+    "units": 44,
+    "net_revenue": 154.0,
+    "gross_profit": 61.6,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-13T00:00:00.000",
+    "units": 51,
+    "net_revenue": 178.5,
+    "gross_profit": 71.4,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-14T00:00:00.000",
+    "units": 47,
+    "net_revenue": 164.5,
+    "gross_profit": 65.8,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-15T00:00:00.000",
+    "units": 41,
+    "net_revenue": 143.5,
+    "gross_profit": 57.4,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-16T00:00:00.000",
+    "units": 43,
+    "net_revenue": 150.5,
+    "gross_profit": 60.2,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR08",
+    "date": "2026-06-17T00:00:00.000",
+    "units": 35,
+    "net_revenue": 122.5,
+    "gross_profit": 49.0,
+    "baseline_daily_units": 42.7857142857,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-15T00:00:00.000",
+    "units": 54,
+    "net_revenue": 135.0,
+    "gross_profit": 40.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-16T00:00:00.000",
+    "units": 51,
+    "net_revenue": 127.5,
+    "gross_profit": 38.25,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-17T00:00:00.000",
+    "units": 45,
+    "net_revenue": 112.5,
+    "gross_profit": 33.75,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-18T00:00:00.000",
+    "units": 45,
+    "net_revenue": 112.5,
+    "gross_profit": 33.75,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-19T00:00:00.000",
+    "units": 42,
+    "net_revenue": 105.0,
+    "gross_profit": 31.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-20T00:00:00.000",
+    "units": 47,
+    "net_revenue": 117.5,
+    "gross_profit": 35.25,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-21T00:00:00.000",
+    "units": 47,
+    "net_revenue": 117.5,
+    "gross_profit": 35.25,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-22T00:00:00.000",
+    "units": 51,
+    "net_revenue": 127.5,
+    "gross_profit": 38.25,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-23T00:00:00.000",
+    "units": 56,
+    "net_revenue": 140.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-24T00:00:00.000",
+    "units": 46,
+    "net_revenue": 115.0,
+    "gross_profit": 34.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-25T00:00:00.000",
+    "units": 42,
+    "net_revenue": 105.0,
+    "gross_profit": 31.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-26T00:00:00.000",
+    "units": 46,
+    "net_revenue": 115.0,
+    "gross_profit": 34.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-27T00:00:00.000",
+    "units": 48,
+    "net_revenue": 120.0,
+    "gross_profit": 36.0,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-28T00:00:00.000",
+    "units": 42,
+    "net_revenue": 105.0,
+    "gross_profit": 31.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-29T00:00:00.000",
+    "units": 82,
+    "net_revenue": 153.8,
+    "gross_profit": 10.3,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-30T00:00:00.000",
+    "units": 81,
+    "net_revenue": 151.89,
+    "gross_profit": 10.14,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-08-31T00:00:00.000",
+    "units": 63,
+    "net_revenue": 118.16,
+    "gross_profit": 7.91,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-01T00:00:00.000",
+    "units": 68,
+    "net_revenue": 127.5,
+    "gross_profit": 8.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-02T00:00:00.000",
+    "units": 66,
+    "net_revenue": 123.77,
+    "gross_profit": 8.27,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-03T00:00:00.000",
+    "units": 67,
+    "net_revenue": 125.65,
+    "gross_profit": 8.4,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-04T00:00:00.000",
+    "units": 65,
+    "net_revenue": 121.87,
+    "gross_profit": 8.12,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-05T00:00:00.000",
+    "units": 71,
+    "net_revenue": 133.13,
+    "gross_profit": 8.88,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-06T00:00:00.000",
+    "units": 74,
+    "net_revenue": 138.75,
+    "gross_profit": 9.25,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-07T00:00:00.000",
+    "units": 56,
+    "net_revenue": 104.97,
+    "gross_profit": 6.97,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-08T00:00:00.000",
+    "units": 66,
+    "net_revenue": 123.72,
+    "gross_profit": 8.22,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-09T00:00:00.000",
+    "units": 66,
+    "net_revenue": 123.75,
+    "gross_profit": 8.25,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-10T00:00:00.000",
+    "units": 61,
+    "net_revenue": 114.4,
+    "gross_profit": 7.65,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-11T00:00:00.000",
+    "units": 61,
+    "net_revenue": 114.37,
+    "gross_profit": 7.62,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-12T00:00:00.000",
+    "units": 49,
+    "net_revenue": 122.5,
+    "gross_profit": 36.75,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-13T00:00:00.000",
+    "units": 52,
+    "net_revenue": 130.0,
+    "gross_profit": 39.0,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-14T00:00:00.000",
+    "units": 46,
+    "net_revenue": 115.0,
+    "gross_profit": 34.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-15T00:00:00.000",
+    "units": 46,
+    "net_revenue": 115.0,
+    "gross_profit": 34.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-16T00:00:00.000",
+    "units": 44,
+    "net_revenue": 110.0,
+    "gross_profit": 33.0,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-17T00:00:00.000",
+    "units": 45,
+    "net_revenue": 112.5,
+    "gross_profit": 33.75,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-18T00:00:00.000",
+    "units": 38,
+    "net_revenue": 95.0,
+    "gross_profit": 28.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-19T00:00:00.000",
+    "units": 54,
+    "net_revenue": 135.0,
+    "gross_profit": 40.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-20T00:00:00.000",
+    "units": 54,
+    "net_revenue": 135.0,
+    "gross_profit": 40.5,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-21T00:00:00.000",
+    "units": 48,
+    "net_revenue": 120.0,
+    "gross_profit": 36.0,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-22T00:00:00.000",
+    "units": 47,
+    "net_revenue": 117.5,
+    "gross_profit": 35.25,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-23T00:00:00.000",
+    "units": 43,
+    "net_revenue": 107.5,
+    "gross_profit": 32.25,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-24T00:00:00.000",
+    "units": 47,
+    "net_revenue": 117.5,
+    "gross_profit": 35.25,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR05",
+    "date": "2026-09-25T00:00:00.000",
+    "units": 43,
+    "net_revenue": 107.5,
+    "gross_profit": 32.25,
+    "baseline_daily_units": 47.6428571429,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-17T00:00:00.000",
+    "units": 63,
+    "net_revenue": 126.0,
+    "gross_profit": 44.1,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-18T00:00:00.000",
+    "units": 64,
+    "net_revenue": 128.0,
+    "gross_profit": 44.8,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-19T00:00:00.000",
+    "units": 63,
+    "net_revenue": 126.0,
+    "gross_profit": 44.1,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-20T00:00:00.000",
+    "units": 55,
+    "net_revenue": 110.0,
+    "gross_profit": 38.5,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-21T00:00:00.000",
+    "units": 66,
+    "net_revenue": 132.0,
+    "gross_profit": 46.2,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-22T00:00:00.000",
+    "units": 65,
+    "net_revenue": 130.0,
+    "gross_profit": 45.5,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-23T00:00:00.000",
+    "units": 68,
+    "net_revenue": 136.0,
+    "gross_profit": 47.6,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-24T00:00:00.000",
+    "units": 72,
+    "net_revenue": 144.0,
+    "gross_profit": 50.4,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-25T00:00:00.000",
+    "units": 60,
+    "net_revenue": 120.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-26T00:00:00.000",
+    "units": 53,
+    "net_revenue": 106.0,
+    "gross_profit": 37.1,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-27T00:00:00.000",
+    "units": 61,
+    "net_revenue": 122.0,
+    "gross_profit": 42.7,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-28T00:00:00.000",
+    "units": 59,
+    "net_revenue": 118.0,
+    "gross_profit": 41.3,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-29T00:00:00.000",
+    "units": 60,
+    "net_revenue": 120.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-30T00:00:00.000",
+    "units": 73,
+    "net_revenue": 146.0,
+    "gross_profit": 51.1,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-05-31T00:00:00.000",
+    "units": 127,
+    "net_revenue": 177.8,
+    "gross_profit": 12.7,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-01T00:00:00.000",
+    "units": 110,
+    "net_revenue": 154.0,
+    "gross_profit": 11.0,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-02T00:00:00.000",
+    "units": 118,
+    "net_revenue": 165.2,
+    "gross_profit": 11.8,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-03T00:00:00.000",
+    "units": 107,
+    "net_revenue": 149.8,
+    "gross_profit": 10.7,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-04T00:00:00.000",
+    "units": 101,
+    "net_revenue": 141.4,
+    "gross_profit": 10.1,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-05T00:00:00.000",
+    "units": 116,
+    "net_revenue": 162.4,
+    "gross_profit": 11.6,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-06T00:00:00.000",
+    "units": 126,
+    "net_revenue": 176.4,
+    "gross_profit": 12.6,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-07T00:00:00.000",
+    "units": 147,
+    "net_revenue": 205.8,
+    "gross_profit": 14.7,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-08T00:00:00.000",
+    "units": 112,
+    "net_revenue": 156.8,
+    "gross_profit": 11.2,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-09T00:00:00.000",
+    "units": 107,
+    "net_revenue": 149.8,
+    "gross_profit": 10.7,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-10T00:00:00.000",
+    "units": 117,
+    "net_revenue": 163.8,
+    "gross_profit": 11.7,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-11T00:00:00.000",
+    "units": 121,
+    "net_revenue": 169.4,
+    "gross_profit": 12.1,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-12T00:00:00.000",
+    "units": 116,
+    "net_revenue": 162.4,
+    "gross_profit": 11.6,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-13T00:00:00.000",
+    "units": 136,
+    "net_revenue": 190.4,
+    "gross_profit": 13.6,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-14T00:00:00.000",
+    "units": 67,
+    "net_revenue": 134.0,
+    "gross_profit": 46.9,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-15T00:00:00.000",
+    "units": 64,
+    "net_revenue": 128.0,
+    "gross_profit": 44.8,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-16T00:00:00.000",
+    "units": 59,
+    "net_revenue": 118.0,
+    "gross_profit": 41.3,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-17T00:00:00.000",
+    "units": 64,
+    "net_revenue": 128.0,
+    "gross_profit": 44.8,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-18T00:00:00.000",
+    "units": 60,
+    "net_revenue": 120.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-19T00:00:00.000",
+    "units": 60,
+    "net_revenue": 120.0,
+    "gross_profit": 42.0,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-20T00:00:00.000",
+    "units": 65,
+    "net_revenue": 130.0,
+    "gross_profit": 45.5,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-21T00:00:00.000",
+    "units": 68,
+    "net_revenue": 136.0,
+    "gross_profit": 47.6,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-22T00:00:00.000",
+    "units": 55,
+    "net_revenue": 110.0,
+    "gross_profit": 38.5,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-23T00:00:00.000",
+    "units": 67,
+    "net_revenue": 134.0,
+    "gross_profit": 46.9,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-24T00:00:00.000",
+    "units": 64,
+    "net_revenue": 128.0,
+    "gross_profit": 44.8,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-25T00:00:00.000",
+    "units": 61,
+    "net_revenue": 122.0,
+    "gross_profit": 42.7,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-26T00:00:00.000",
+    "units": 57,
+    "net_revenue": 114.0,
+    "gross_profit": 39.9,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR01",
+    "date": "2026-06-27T00:00:00.000",
+    "units": 73,
+    "net_revenue": 146.0,
+    "gross_profit": 51.1,
+    "baseline_daily_units": 62.8571428571,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-05-27T00:00:00.000",
+    "units": 61,
+    "net_revenue": 366.0,
+    "gross_profit": 183.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-05-28T00:00:00.000",
+    "units": 65,
+    "net_revenue": 390.0,
+    "gross_profit": 195.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-05-29T00:00:00.000",
+    "units": 58,
+    "net_revenue": 348.0,
+    "gross_profit": 174.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-05-30T00:00:00.000",
+    "units": 66,
+    "net_revenue": 396.0,
+    "gross_profit": 198.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-05-31T00:00:00.000",
+    "units": 73,
+    "net_revenue": 438.0,
+    "gross_profit": 219.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-01T00:00:00.000",
+    "units": 60,
+    "net_revenue": 360.0,
+    "gross_profit": 180.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-02T00:00:00.000",
+    "units": 60,
+    "net_revenue": 360.0,
+    "gross_profit": 180.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-03T00:00:00.000",
+    "units": 62,
+    "net_revenue": 372.0,
+    "gross_profit": 186.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-04T00:00:00.000",
+    "units": 56,
+    "net_revenue": 336.0,
+    "gross_profit": 168.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-05T00:00:00.000",
+    "units": 56,
+    "net_revenue": 336.0,
+    "gross_profit": 168.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-06T00:00:00.000",
+    "units": 75,
+    "net_revenue": 450.0,
+    "gross_profit": 225.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-07T00:00:00.000",
+    "units": 66,
+    "net_revenue": 396.0,
+    "gross_profit": 198.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-08T00:00:00.000",
+    "units": 64,
+    "net_revenue": 384.0,
+    "gross_profit": 192.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-09T00:00:00.000",
+    "units": 60,
+    "net_revenue": 360.0,
+    "gross_profit": 180.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-10T00:00:00.000",
+    "units": 102,
+    "net_revenue": 520.2,
+    "gross_profit": 214.2,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-11T00:00:00.000",
+    "units": 115,
+    "net_revenue": 586.5,
+    "gross_profit": 241.5,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-12T00:00:00.000",
+    "units": 121,
+    "net_revenue": 617.1,
+    "gross_profit": 254.1,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-13T00:00:00.000",
+    "units": 132,
+    "net_revenue": 673.2,
+    "gross_profit": 277.2,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-14T00:00:00.000",
+    "units": 129,
+    "net_revenue": 657.9,
+    "gross_profit": 270.9,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-15T00:00:00.000",
+    "units": 107,
+    "net_revenue": 545.7,
+    "gross_profit": 224.7,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-16T00:00:00.000",
+    "units": 105,
+    "net_revenue": 535.5,
+    "gross_profit": 220.5,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-17T00:00:00.000",
+    "units": 109,
+    "net_revenue": 555.9,
+    "gross_profit": 228.9,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-18T00:00:00.000",
+    "units": 113,
+    "net_revenue": 576.3,
+    "gross_profit": 237.3,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-19T00:00:00.000",
+    "units": 107,
+    "net_revenue": 545.7,
+    "gross_profit": 224.7,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-20T00:00:00.000",
+    "units": 141,
+    "net_revenue": 719.1,
+    "gross_profit": 296.1,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-21T00:00:00.000",
+    "units": 132,
+    "net_revenue": 673.2,
+    "gross_profit": 277.2,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-22T00:00:00.000",
+    "units": 104,
+    "net_revenue": 530.4,
+    "gross_profit": 218.4,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-23T00:00:00.000",
+    "units": 96,
+    "net_revenue": 489.6,
+    "gross_profit": 201.6,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": true
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-24T00:00:00.000",
+    "units": 57,
+    "net_revenue": 342.0,
+    "gross_profit": 171.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-25T00:00:00.000",
+    "units": 59,
+    "net_revenue": 354.0,
+    "gross_profit": 177.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-26T00:00:00.000",
+    "units": 57,
+    "net_revenue": 342.0,
+    "gross_profit": 171.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-27T00:00:00.000",
+    "units": 72,
+    "net_revenue": 432.0,
+    "gross_profit": 216.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-28T00:00:00.000",
+    "units": 74,
+    "net_revenue": 444.0,
+    "gross_profit": 222.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-29T00:00:00.000",
+    "units": 59,
+    "net_revenue": 354.0,
+    "gross_profit": 177.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-06-30T00:00:00.000",
+    "units": 63,
+    "net_revenue": 378.0,
+    "gross_profit": 189.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-07-01T00:00:00.000",
+    "units": 51,
+    "net_revenue": 306.0,
+    "gross_profit": 153.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-07-02T00:00:00.000",
+    "units": 58,
+    "net_revenue": 348.0,
+    "gross_profit": 174.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-07-03T00:00:00.000",
+    "units": 60,
+    "net_revenue": 360.0,
+    "gross_profit": 180.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-07-04T00:00:00.000",
+    "units": 68,
+    "net_revenue": 408.0,
+    "gross_profit": 204.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-07-05T00:00:00.000",
+    "units": 73,
+    "net_revenue": 438.0,
+    "gross_profit": 219.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-07-06T00:00:00.000",
+    "units": 60,
+    "net_revenue": 360.0,
+    "gross_profit": 180.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  },
+  {
+    "promo_id": "PR06",
+    "date": "2026-07-07T00:00:00.000",
+    "units": 57,
+    "net_revenue": 342.0,
+    "gross_profit": 171.0,
+    "baseline_daily_units": 63.5,
+    "is_promo_day": false
+  }
+]

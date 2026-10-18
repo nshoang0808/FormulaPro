@@ -1,0 +1,182 @@
+{
+  "PR07": {
+    "promo_id": "PR07",
+    "headline": "Sales up 45%, profit up $988",
+    "explanation": "Serum Glow 10% Off ran 10% off Vitamin C Serum for 14 days. Units moved +61% against baseline; breakeven lift was 20%. Net incremental profit after category effects: +$988.",
+    "root_causes": [
+      "Lift of 61% cleared the breakeven of 20%"
+    ],
+    "actions": [
+      {
+        "action": "Run it again at the same depth",
+        "type": "scale_up",
+        "expected_impact": "About +$988 per 14-day run",
+        "confidence": "medium"
+      }
+    ],
+    "suggested_discount_pct": 0.1,
+    "source": "fallback"
+  },
+  "PR04": {
+    "promo_id": "PR04",
+    "headline": "Sales up 21%, profit up $134",
+    "explanation": "Chocolate 10% Off ran 10% off Dark Chocolate Bar for 14 days. Units moved +34% against baseline; breakeven lift was 22%. Net incremental profit after category effects: +$134.",
+    "root_causes": [
+      "Lift of 34% cleared the breakeven of 22%"
+    ],
+    "actions": [
+      {
+        "action": "Run it again at the same depth",
+        "type": "scale_up",
+        "expected_impact": "About +$134 per 14-day run",
+        "confidence": "medium"
+      }
+    ],
+    "suggested_discount_pct": 0.1,
+    "source": "fallback"
+  },
+  "PR02": {
+    "promo_id": "PR02",
+    "headline": "Sales up 40%, profit up $70",
+    "explanation": "Cold Brew 15% Off ran 15% off Cold Brew Coffee for 14 days. Units moved +64% against baseline; breakeven lift was 43%. Net incremental profit after category effects: +$70.",
+    "root_causes": [
+      "Lift of 64% cleared the breakeven of 43%"
+    ],
+    "actions": [
+      {
+        "action": "Run it again at the same depth",
+        "type": "scale_up",
+        "expected_impact": "About +$70 per 14-day run",
+        "confidence": "medium"
+      }
+    ],
+    "suggested_discount_pct": 0.15,
+    "source": "fallback"
+  },
+  "PR09": {
+    "promo_id": "PR09",
+    "headline": "Sales up 32%, profit up $60",
+    "explanation": "Laundry Pods 15% Off ran 15% off Laundry Pods for 14 days. Units moved +55% against baseline; breakeven lift was 50%. Net incremental profit after category effects: +$60.",
+    "root_causes": [
+      "Lift of 55% cleared the breakeven of 50%"
+    ],
+    "actions": [
+      {
+        "action": "Run it again at the same depth",
+        "type": "scale_up",
+        "expected_impact": "About +$60 per 14-day run",
+        "confidence": "medium"
+      }
+    ],
+    "suggested_discount_pct": 0.15,
+    "source": "fallback"
+  },
+  "PR10": {
+    "promo_id": "PR10",
+    "headline": "Sales up 14%, profit up $22",
+    "explanation": "Glass Cleaner 10% Off ran 10% off Glass Cleaner for 14 days. Units moved +26% against baseline; breakeven lift was 22%. Net incremental profit after category effects: +$22.",
+    "root_causes": [
+      "Lift of 26% cleared the breakeven of 22%"
+    ],
+    "actions": [
+      {
+        "action": "Run it again at the same depth",
+        "type": "scale_up",
+        "expected_impact": "About +$22 per 14-day run",
+        "confidence": "medium"
+      }
+    ],
+    "suggested_discount_pct": 0.1,
+    "source": "fallback"
+  },
+  "PR03": {
+    "promo_id": "PR03",
+    "headline": "Sales up 34%, profit up $5",
+    "explanation": "Chips 20% Off ran 20% off Sea Salt Chips for 14 days. Units moved +68% against baseline; breakeven lift was 67%. Net incremental profit after category effects: +$5.",
+    "root_causes": [
+      "Lift of 68% cleared the breakeven of 67%"
+    ],
+    "actions": [
+      {
+        "action": "Run it again at the same depth",
+        "type": "scale_up",
+        "expected_impact": "About +$5 per 14-day run",
+        "confidence": "medium"
+      }
+    ],
+    "suggested_discount_pct": 0.2,
+    "source": "fallback"
+  },
+  "PR08": {
+    "promo_id": "PR08",
+    "headline": "Sales down 17%, profit down $388",
+    "explanation": "Dish Soap 20% Off ran 20% off Dish Soap for 14 days. Units moved +4% against baseline; breakeven lift was 100%. Net incremental profit after category effects: -$388.",
+    "root_causes": [
+      "Only 4% lift, so most of the discount went to customers who would have bought anyway"
+    ],
+    "actions": [
+      {
+        "action": "Stop this promotion",
+        "type": "stop",
+        "expected_impact": "Saves about $419 in discounts on units that sell anyway",
+        "confidence": "high"
+      }
+    ],
+    "suggested_discount_pct": null,
+    "source": "fallback"
+  },
+  "PR05": {
+    "promo_id": "PR05",
+    "headline": "Sales up 6%, profit down $405",
+    "explanation": "Pretzel 25% Off ran 25% off Pretzel Bites for 14 days. Units moved +42% against baseline; breakeven lift was 500%. Net incremental profit after category effects: -$405.",
+    "root_causes": [
+      "Lift of 42% fell short of the breakeven of 500%"
+    ],
+    "actions": [
+      {
+        "action": "Cut the discount from 25% to 5%",
+        "type": "reduce_discount",
+        "expected_impact": "Keeps most of the lift while restoring margin",
+        "confidence": "medium"
+      }
+    ],
+    "suggested_discount_pct": 0.05,
+    "source": "fallback"
+  },
+  "PR01": {
+    "promo_id": "PR01",
+    "headline": "Sales up 32%, profit down $417",
+    "explanation": "Cola Summer Blast 30% Off ran 30% off Fizz Cola 330ml for 14 days. Units moved +89% against baseline; breakeven lift was 600%. Net incremental profit after category effects: -$417.",
+    "root_causes": [
+      "Lift of 89% fell short of the breakeven of 600%"
+    ],
+    "actions": [
+      {
+        "action": "Cut the discount from 30% to 10%",
+        "type": "reduce_discount",
+        "expected_impact": "Keeps most of the lift while restoring margin",
+        "confidence": "medium"
+      }
+    ],
+    "suggested_discount_pct": 0.1,
+    "source": "fallback"
+  },
+  "PR06": {
+    "promo_id": "PR06",
+    "headline": "Sales up 54%, profit down $663",
+    "explanation": "Herbal Shampoo 15% Off ran 15% off Herbal Shampoo for 14 days. Units moved +81% against baseline; breakeven lift was 43%. Net incremental profit after category effects: -$663.",
+    "root_causes": [
+      "Other Personal Care products lost $1,384 of profit during the promotion"
+    ],
+    "actions": [
+      {
+        "action": "Bundle with sibling products instead of discounting one item",
+        "type": "bundle",
+        "expected_impact": "Recovers part of the $1,384 lost from sibling products",
+        "confidence": "medium"
+      }
+    ],
+    "suggested_discount_pct": null,
+    "source": "fallback"
+  }
+}

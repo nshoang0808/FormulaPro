@@ -1,0 +1,47 @@
+[
+  {
+    "product_id": "B04",
+    "product_name": "Spring Water 1L",
+    "suggested_discount_pct": 0.15,
+    "rationale": "50% margin, and Beverages promotions average 76% lift",
+    "expected_impact": "About +$149 over a 14-day promotion",
+    "confidence": "medium",
+    "source": "fallback"
+  },
+  {
+    "product_id": "C02",
+    "product_name": "Classic Shampoo",
+    "suggested_discount_pct": 0.15,
+    "rationale": "50% margin, and Personal Care promotions average 71% lift",
+    "expected_impact": "About +$532 over a 14-day promotion",
+    "confidence": "medium",
+    "source": "fallback"
+  },
+  {
+    "product_id": "C01",
+    "product_name": "Herbal Shampoo",
+    "suggested_discount_pct": 0.15,
+    "rationale": "50% margin, and Personal Care promotions average 71% lift",
+    "expected_impact": "About +$525 over a 14-day promotion",
+    "confidence": "medium",
+    "source": "fallback"
+  },
+  {
+    "product_id": "C04",
+    "product_name": "Mint Toothpaste",
+    "suggested_discount_pct": 0.15,
+    "rationale": "50% margin, and Personal Care promotions average 71% lift",
+    "expected_impact": "About +$205 over a 14-day promotion",
+    "confidence": "medium",
+    "source": "fallback"
+  },
+  {
+    "product_id": "C05",
+    "product_name": "Body Lotion",
+    "suggested_discount_pct": 0.1,
+    "rationale": "45% margin, and Personal Care promotions average 71% lift",
+    "expected_impact": "About +$350 over a 14-day promotion",
+    "confidence": "medium",
+    "source": "fallback"
+  }
+]
