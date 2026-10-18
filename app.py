@@ -363,7 +363,7 @@ cand_display = pd.DataFrame({
     "Product": cand_df["product_name"],
     "Category": cand_df["category"],
     "Margin": cand_df["margin_pct"],
-    "Category Avg Lift": cand_df["category_avg_lift"],
+    "Category Avg Net Lift": cand_df["category_avg_lift"],
     "Suggested Discount": cand_df["suggested_discount_pct"].apply(
         lambda x: "Full price" if pd.isna(x) or x is None else f"{x:.0%}"
     ),
@@ -374,7 +374,7 @@ cand_config = {
     "Product": st.column_config.TextColumn("Product", width="medium"),
     "Category": st.column_config.TextColumn("Category", width="medium"),
     "Margin": st.column_config.NumberColumn("Margin", format="percent", step=1),
-    "Category Avg Lift": st.column_config.NumberColumn("Category Avg Lift", format="percent", step=1),
+    "Category Avg Net Lift": st.column_config.NumberColumn("Category Avg Net Lift", format="percent", step=1),
     "Suggested Discount": st.column_config.TextColumn("Suggested Discount"),
     "Projected Incremental Profit": st.column_config.NumberColumn("Projected Incremental Profit", format="$%,d"),
 }
